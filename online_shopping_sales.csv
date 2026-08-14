@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,City,Gender,Age,Category,Product,Quantity,Unit_Price,Discount_Percent,Total_Amount,Payment_Method,Order_Status,Month
+ORD0001,2025-02-22,Jaipur,Male,55,Beauty,Face Wash,2,800,5,1520.0,Cash on Delivery,Delivered,2025-02
+ORD0002,2025-04-12,Jaipur,Female,32,Electronics,Smart Watch,1,11110,20,8888.0,Cash on Delivery,Returned,2025-04
+ORD0003,2025-06-24,Hyderabad,Male,31,Clothing,T-Shirt,2,890,15,1513.0,Debit Card,Delivered,2025-06
+ORD0004,2025-01-23,Ahmedabad,Male,42,Electronics,Wireless Headphones,1,6650,10,5985.0,UPI,Returned,2025-01
+ORD0005,2025-04-09,Delhi,Male,32,Clothing,Hoodie,2,3070,20,4912.0,Debit Card,Delivered,2025-04
+ORD0006,2025-03-25,Chennai,Female,31,Sports,Yoga Mat,1,2940,10,2646.0,Debit Card,Delivered,2025-03
+ORD0007,2025-07-14,Hyderabad,Male,38,Home & Kitchen,Cookware Set,1,2090,15,1776.5,UPI,Delivered,2025-07
+ORD0008,2025-06-11,Bengaluru,Female,43,Sports,Cricket Bat,1,770,20,616.0,Cash on Delivery,Delivered,2025-06
+ORD0009,2025-08-08,Lucknow,Female,41,Clothing,Jeans,2,2070,20,3312.0,Credit Card,Delivered,2025-08
+ORD0010,2025-11-18,Mumbai,Female,22,Home & Kitchen,Coffee Maker,2,6100,5,11590.0,Cash on Delivery,Cancelled,2025-11
+ORD0011,2025-12-15,Delhi,Female,39,Home & Kitchen,Bedsheet,1,6810,0,6810.0,UPI,Delivered,2025-12
+ORD0012,2025-09-14,Mumbai,Male,37,Clothing,Sneakers,1,2640,10,2376.0,Net Banking,Returned,2025-09
+ORD0013,2025-01-01,Lucknow,Female,49,Electronics,Bluetooth Speaker,2,10030,20,16048.0,UPI,Delivered,2025-01
+ORD0014,2025-02-10,Delhi,Female,22,Books,Fiction Novel,1,510,20,408.0,Net Banking,Delivered,2025-02
+ORD0015,2025-11-07,Pune,Male,52,Electronics,Power Bank,4,3560,20,11392.0,Credit Card,Delivered,2025-11
+ORD0016,2025-08-20,Delhi,Male,32,Clothing,Hoodie,2,1760,20,2816.0,UPI,Delivered,2025-08
+ORD0017,2025-12-29,Kolkata,Male,22,Electronics,Keyboard,1,4510,0,4510.0,UPI,Delivered,2025-12
+ORD0018,2025-03-09,Lucknow,Female,33,Electronics,Smart Watch,1,9100,20,7280.0,Cash on Delivery,Cancelled,2025-03
+ORD0019,2025-08-28,Kolkata,Male,21,Electronics,Wireless Headphones,2,6830,15,11611.0,Cash on Delivery,Delivered,2025-08
+ORD0020,2025-03-13,Pune,Male,35,Sports,Yoga Mat,1,1470,15,1249.5,Cash on Delivery,Delivered,2025-03
+ORD0021,2025-02-20,Kolkata,Male,23,Sports,Yoga Mat,1,5220,20,4176.0,Credit Card,Delivered,2025-02
+ORD0022,2025-03-26,Pune,Male,42,Clothing,Sneakers,1,1640,0,1640.0,Debit Card,Cancelled,2025-03
+ORD0023,2025-12-05,Ahmedabad,Male,30,Clothing,Hoodie,4,3490,20,11168.0,Debit Card,Delivered,2025-12
+ORD0024,2025-01-30,Kolkata,Female,50,Books,Self Help Book,2,280,10,504.0,Net Banking,Delivered,2025-01
+ORD0025,2025-02-04,Bengaluru,Female,25,Electronics,Keyboard,1,3910,20,3128.0,Net Banking,Delivered,2025-02
+ORD0026,2025-10-17,Jaipur,Female,34,Home & Kitchen,Coffee Maker,2,3220,20,5152.0,Credit Card,Delivered,2025-10
+ORD0027,2025-06-11,Delhi,Male,47,Electronics,Power Bank,1,11870,15,10089.5,Net Banking,Returned,2025-06
+ORD0028,2025-06-28,Delhi,Male,41,Books,Python Basics,1,860,5,817.0,Debit Card,Delivered,2025-06
+ORD0029,2025-01-05,Jaipur,Female,24,Clothing,Dress,2,2300,20,3680.0,Credit Card,Delivered,2025-01
+ORD0030,2025-11-06,Bengaluru,Female,31,Electronics,Wireless Headphones,2,3390,10,6102.0,Debit Card,Returned,2025-11
+ORD0031,2025-01-23,Kolkata,Female,26,Home & Kitchen,Coffee Maker,1,3250,10,2925.0,Debit Card,Delivered,2025-01
+ORD0032,2025-02-08,Mumbai,Male,41,Sports,Running Shoes,2,3540,0,7080.0,Net Banking,Returned,2025-02
+ORD0033,2025-07-03,Bengaluru,Male,24,Electronics,Smart Watch,1,7010,0,7010.0,Debit Card,Returned,2025-07
+ORD0034,2025-03-25,Mumbai,Female,19,Books,Business Book,4,1170,5,4446.0,Credit Card,Delivered,2025-03
+ORD0035,2025-05-17,Mumbai,Male,42,Sports,Dumbbells,3,5240,5,14934.0,UPI,Cancelled,2025-05
+ORD0036,2025-04-25,Kolkata,Male,43,Electronics,Power Bank,1,14900,5,14155.0,Debit Card,Delivered,2025-04
+ORD0037,2025-06-19,Kolkata,Male,34,Sports,Cricket Bat,1,3250,20,2600.0,Credit Card,Returned,2025-06
+ORD0038,2025-06-10,Pune,Male,42,Books,Fiction Novel,1,980,10,882.0,Net Banking,Delivered,2025-06
+ORD0039,2025-12-18,Bengaluru,Female,45,Clothing,Hoodie,1,2010,20,1608.0,UPI,Delivered,2025-12
+ORD0040,2025-09-17,Hyderabad,Female,38,Beauty,Hair Dryer,3,1870,10,5049.0,Cash on Delivery,Delivered,2025-09
+ORD0041,2025-11-12,Lucknow,Female,43,Home & Kitchen,Cookware Set,1,6610,5,6279.5,Net Banking,Delivered,2025-11
+ORD0042,2025-08-27,Ahmedabad,Female,31,Clothing,Jeans,1,2200,10,1980.0,Net Banking,Cancelled,2025-08
+ORD0043,2025-12-06,Lucknow,Female,23,Sports,Skipping Rope,1,870,20,696.0,Credit Card,Delivered,2025-12
+ORD0044,2025-11-09,Delhi,Female,44,Electronics,Smart Watch,1,1500,15,1275.0,Net Banking,Delivered,2025-11
+ORD0045,2025-02-24,Pune,Male,29,Beauty,Lipstick,1,800,0,800.0,Net Banking,Cancelled,2025-02
+ORD0046,2025-08-26,Jaipur,Female,46,Electronics,Smart Watch,3,2800,5,7980.0,Net Banking,Returned,2025-08
+ORD0047,2025-08-19,Hyderabad,Male,35,Clothing,Dress,1,890,15,756.5,Net Banking,Cancelled,2025-08
+ORD0048,2025-05-20,Chennai,Female,52,Beauty,Perfume,1,1860,5,1767.0,UPI,Delivered,2025-05
+ORD0049,2025-08-01,Pune,Female,52,Electronics,Power Bank,2,12920,0,25840.0,Cash on Delivery,Cancelled,2025-08
+ORD0050,2025-10-22,Pune,Female,18,Electronics,Power Bank,1,14020,0,14020.0,Debit Card,Delivered,2025-10
+ORD0051,2025-04-23,Ahmedabad,Male,35,Sports,Dumbbells,1,4510,20,3608.0,Cash on Delivery,Cancelled,2025-04
+ORD0052,2025-08-28,Mumbai,Male,43,Electronics,Bluetooth Speaker,2,14510,5,27569.0,Net Banking,Returned,2025-08
+ORD0053,2025-04-04,Kolkata,Female,42,Beauty,Face Wash,2,560,15,952.0,Debit Card,Delivered,2025-04
+ORD0054,2025-05-10,Delhi,Female,19,Home & Kitchen,Mixer Grinder,2,2960,15,5032.0,Net Banking,Delivered,2025-05
+ORD0055,2025-01-16,Bengaluru,Male,19,Books,Fiction Novel,1,290,0,290.0,Net Banking,Delivered,2025-01
+ORD0056,2025-08-27,Hyderabad,Female,28,Electronics,Power Bank,2,10460,5,19874.0,Net Banking,Returned,2025-08
+ORD0057,2025-02-25,Lucknow,Male,37,Books,History Book,1,1270,10,1143.0,Net Banking,Cancelled,2025-02
+ORD0058,2025-02-22,Hyderabad,Male,54,Clothing,Hoodie,1,2240,5,2128.0,UPI,Delivered,2025-02
+ORD0059,2025-01-07,Pune,Female,24,Home & Kitchen,Water Bottle,1,3790,10,3411.0,Cash on Delivery,Delivered,2025-01
+ORD0060,2025-11-30,Hyderabad,Female,47,Beauty,Lipstick,2,1230,20,1968.0,Cash on Delivery,Returned,2025-11
+ORD0061,2025-05-05,Ahmedabad,Female,39,Clothing,Jeans,3,670,15,1708.5,UPI,Cancelled,2025-05
+ORD0062,2025-06-24,Hyderabad,Female,53,Sports,Football,1,2390,10,2151.0,UPI,Returned,2025-06
+ORD0063,2025-05-04,Ahmedabad,Female,46,Books,Python Basics,1,730,20,584.0,UPI,Delivered,2025-05
+ORD0064,2025-07-08,Ahmedabad,Female,45,Clothing,Sneakers,2,1350,20,2160.0,Net Banking,Delivered,2025-07
+ORD0065,2025-04-09,Chennai,Male,52,Clothing,Sneakers,1,1180,0,1180.0,Credit Card,Delivered,2025-04
+ORD0066,2025-11-02,Hyderabad,Male,30,Electronics,Power Bank,1,10900,20,8720.0,Debit Card,Delivered,2025-11
+ORD0067,2025-01-24,Kolkata,Female,26,Clothing,Jacket,1,2060,10,1854.0,Cash on Delivery,Delivered,2025-01
+ORD0068,2025-04-05,Kolkata,Female,48,Sports,Running Shoes,1,3080,10,2772.0,UPI,Delivered,2025-04
+ORD0069,2025-03-18,Lucknow,Female,23,Clothing,T-Shirt,2,2530,5,4807.0,Credit Card,Delivered,2025-03
+ORD0070,2025-09-25,Pune,Female,46,Home & Kitchen,Bedsheet,2,5640,5,10716.0,Debit Card,Returned,2025-09
+ORD0071,2025-04-17,Bengaluru,Female,23,Books,Fiction Novel,2,280,0,560.0,Credit Card,Delivered,2025-04
+ORD0072,2025-08-29,Hyderabad,Male,32,Electronics,Wireless Headphones,1,7770,20,6216.0,Debit Card,Delivered,2025-08
+ORD0073,2025-11-17,Lucknow,Male,45,Beauty,Lipstick,1,780,10,702.0,UPI,Returned,2025-11
+ORD0074,2025-01-31,Mumbai,Female,54,Electronics,Smart Watch,3,15000,0,45000.0,Debit Card,Cancelled,2025-01
+ORD0075,2025-09-14,Jaipur,Female,46,Electronics,Mouse,1,7660,10,6894.0,UPI,Returned,2025-09
+ORD0076,2025-02-16,Bengaluru,Male,35,Electronics,Power Bank,2,11140,0,22280.0,Net Banking,Delivered,2025-02
+ORD0077,2025-04-03,Lucknow,Female,49,Sports,Football,1,4050,10,3645.0,UPI,Cancelled,2025-04
+ORD0078,2025-06-18,Pune,Female,36,Clothing,Jacket,1,720,5,684.0,Cash on Delivery,Returned,2025-06
+ORD0079,2025-09-21,Kolkata,Female,44,Electronics,Wireless Headphones,1,6290,15,5346.5,UPI,Delivered,2025-09
+ORD0080,2025-04-15,Hyderabad,Male,36,Home & Kitchen,Storage Box,2,4570,0,9140.0,Cash on Delivery,Cancelled,2025-04
+ORD0081,2025-06-09,Jaipur,Male,53,Electronics,Mouse,2,4840,5,9196.0,Cash on Delivery,Delivered,2025-06
+ORD0082,2025-09-13,Hyderabad,Female,44,Electronics,Wireless Headphones,1,2730,5,2593.5,Cash on Delivery,Cancelled,2025-09
+ORD0083,2025-09-18,Mumbai,Male,35,Clothing,Dress,1,990,20,792.0,Cash on Delivery,Delivered,2025-09
+ORD0084,2025-10-28,Lucknow,Female,27,Books,Self Help Book,1,200,10,180.0,Cash on Delivery,Returned,2025-10
+ORD0085,2025-06-14,Bengaluru,Male,54,Home & Kitchen,Mixer Grinder,2,4030,15,6851.0,Cash on Delivery,Delivered,2025-06
+ORD0086,2025-07-17,Mumbai,Female,20,Sports,Dumbbells,1,4570,15,3884.5,Credit Card,Returned,2025-07
+ORD0087,2025-02-21,Jaipur,Female,18,Books,Fiction Novel,3,1340,15,3417.0,Credit Card,Cancelled,2025-02
+ORD0088,2025-06-23,Lucknow,Female,23,Sports,Football,1,4780,10,4302.0,Debit Card,Returned,2025-06
+ORD0089,2025-10-05,Kolkata,Male,33,Clothing,Jacket,2,3150,15,5355.0,Debit Card,Delivered,2025-10
+ORD0090,2025-08-16,Mumbai,Female,19,Sports,Dumbbells,4,4660,0,18640.0,UPI,Delivered,2025-08
+ORD0091,2025-09-29,Pune,Male,28,Sports,Cricket Bat,1,2810,5,2669.5,Credit Card,Delivered,2025-09
+ORD0092,2025-03-15,Bengaluru,Female,34,Home & Kitchen,Bedsheet,2,2070,20,3312.0,Cash on Delivery,Delivered,2025-03
+ORD0093,2025-02-07,Ahmedabad,Female,55,Beauty,Lipstick,3,1770,5,5044.5,Debit Card,Cancelled,2025-02
+ORD0094,2025-09-05,Delhi,Male,42,Beauty,Lipstick,3,700,15,1785.0,Net Banking,Delivered,2025-09
+ORD0095,2025-05-21,Kolkata,Male,49,Home & Kitchen,Water Bottle,1,6860,15,5831.0,Debit Card,Delivered,2025-05
+ORD0096,2025-12-14,Mumbai,Male,20,Home & Kitchen,Mixer Grinder,1,1740,10,1566.0,Debit Card,Cancelled,2025-12
+ORD0097,2025-06-17,Pune,Male,30,Electronics,Bluetooth Speaker,2,2260,10,4068.0,Credit Card,Returned,2025-06
+ORD0098,2025-05-12,Ahmedabad,Female,39,Sports,Cricket Bat,1,5520,5,5244.0,UPI,Cancelled,2025-05
+ORD0099,2025-10-13,Chennai,Male,43,Books,Data Science Guide,2,490,15,833.0,UPI,Delivered,2025-10
+ORD0100,2025-10-27,Pune,Female,24,Home & Kitchen,Bedsheet,1,5370,10,4833.0,Credit Card,Cancelled,2025-10
+ORD0101,2025-11-22,Ahmedabad,Female,44,Electronics,Keyboard,1,11250,0,11250.0,UPI,Delivered,2025-11
+ORD0102,2025-05-01,Jaipur,Male,42,Electronics,Wireless Headphones,1,9220,0,9220.0,Cash on Delivery,Delivered,2025-05
+ORD0103,2025-03-21,Pune,Male,49,Beauty,Hair Dryer,2,1470,20,2352.0,Net Banking,Cancelled,2025-03
+ORD0104,2025-08-16,Bengaluru,Female,24,Books,Fiction Novel,1,680,15,578.0,Debit Card,Returned,2025-08
+ORD0105,2025-03-04,Ahmedabad,Male,31,Books,History Book,1,720,5,684.0,Net Banking,Delivered,2025-03
+ORD0106,2025-04-16,Delhi,Male,55,Electronics,Bluetooth Speaker,1,2880,20,2304.0,Credit Card,Delivered,2025-04
+ORD0107,2025-03-16,Mumbai,Female,29,Clothing,Jeans,2,2250,10,4050.0,UPI,Delivered,2025-03
+ORD0108,2025-01-09,Mumbai,Female,21,Electronics,Bluetooth Speaker,2,4820,10,8676.0,Credit Card,Cancelled,2025-01
+ORD0109,2025-09-20,Lucknow,Male,46,Home & Kitchen,Water Bottle,1,3410,10,3069.0,Net Banking,Delivered,2025-09
+ORD0110,2025-06-04,Ahmedabad,Male,21,Books,Python Basics,2,1380,20,2208.0,Cash on Delivery,Cancelled,2025-06
+ORD0111,2025-02-11,Chennai,Male,22,Clothing,T-Shirt,1,3220,0,3220.0,Credit Card,Delivered,2025-02
+ORD0112,2025-09-29,Hyderabad,Female,50,Beauty,Sunscreen,1,980,20,784.0,Net Banking,Cancelled,2025-09
+ORD0113,2025-04-21,Pune,Female,32,Electronics,Mouse,1,12030,20,9624.0,Cash on Delivery,Delivered,2025-04
+ORD0114,2025-06-10,Hyderabad,Female,27,Sports,Dumbbells,1,930,15,790.5,Cash on Delivery,Delivered,2025-06
+ORD0115,2025-03-08,Jaipur,Male,55,Electronics,Wireless Headphones,1,2370,10,2133.0,Net Banking,Returned,2025-03
+ORD0116,2025-01-27,Hyderabad,Female,40,Clothing,T-Shirt,1,3110,15,2643.5,UPI,Returned,2025-01
+ORD0117,2025-06-29,Jaipur,Female,25,Home & Kitchen,Cookware Set,2,1960,0,3920.0,Debit Card,Returned,2025-06
+ORD0118,2025-11-11,Jaipur,Male,35,Electronics,Power Bank,3,17560,20,42144.0,UPI,Delivered,2025-11
+ORD0119,2025-03-15,Lucknow,Female,22,Clothing,Jacket,4,1490,5,5662.0,Credit Card,Delivered,2025-03
+ORD0120,2025-03-22,Chennai,Female,38,Electronics,Keyboard,1,7960,10,7164.0,Net Banking,Returned,2025-03
+ORD0121,2025-12-12,Delhi,Female,46,Electronics,Wireless Headphones,1,13750,0,13750.0,Cash on Delivery,Cancelled,2025-12
+ORD0122,2025-06-26,Pune,Male,36,Home & Kitchen,Bedsheet,1,5410,0,5410.0,Net Banking,Cancelled,2025-06
+ORD0123,2025-01-29,Kolkata,Male,37,Home & Kitchen,Mixer Grinder,1,3070,20,2456.0,Credit Card,Delivered,2025-01
+ORD0124,2025-03-31,Mumbai,Female,52,Sports,Cricket Bat,1,440,15,374.0,Credit Card,Returned,2025-03
+ORD0125,2025-08-12,Kolkata,Female,22,Home & Kitchen,Water Bottle,3,970,0,2910.0,Debit Card,Returned,2025-08
+ORD0126,2025-07-27,Kolkata,Female,28,Clothing,Sneakers,2,1690,0,3380.0,Net Banking,Cancelled,2025-07
+ORD0127,2025-08-12,Lucknow,Female,51,Sports,Cricket Bat,1,5130,5,4873.5,UPI,Cancelled,2025-08
+ORD0128,2025-02-09,Jaipur,Male,51,Sports,Skipping Rope,1,2270,5,2156.5,Net Banking,Delivered,2025-02
+ORD0129,2025-05-01,Delhi,Male,34,Books,Fiction Novel,1,1450,5,1377.5,Credit Card,Delivered,2025-05
+ORD0130,2025-08-26,Lucknow,Female,54,Home & Kitchen,Water Bottle,1,6680,15,5678.0,Net Banking,Delivered,2025-08
+ORD0131,2025-08-15,Hyderabad,Female,55,Sports,Skipping Rope,1,2860,15,2431.0,UPI,Delivered,2025-08
+ORD0132,2025-05-27,Delhi,Male,50,Home & Kitchen,Mixer Grinder,1,740,10,666.0,Cash on Delivery,Cancelled,2025-05
+ORD0133,2025-11-30,Bengaluru,Female,48,Home & Kitchen,Water Bottle,3,3420,20,8208.0,Net Banking,Delivered,2025-11
+ORD0134,2025-02-13,Jaipur,Male,20,Books,Business Book,1,1370,10,1233.0,Credit Card,Cancelled,2025-02
+ORD0135,2025-05-25,Pune,Female,39,Books,Self Help Book,1,410,10,369.0,Net Banking,Delivered,2025-05
+ORD0136,2025-12-14,Pune,Female,34,Sports,Skipping Rope,1,2250,20,1800.0,Net Banking,Delivered,2025-12
+ORD0137,2025-12-02,Pune,Male,23,Clothing,Dress,2,3240,10,5832.0,Debit Card,Returned,2025-12
+ORD0138,2025-02-17,Pune,Female,19,Clothing,Jacket,3,2480,20,5952.0,Debit Card,Delivered,2025-02
+ORD0139,2025-04-26,Mumbai,Male,22,Electronics,Smart Watch,1,13950,5,13252.5,Debit Card,Delivered,2025-04
+ORD0140,2025-12-05,Chennai,Male,42,Home & Kitchen,Storage Box,3,6240,0,18720.0,Credit Card,Delivered,2025-12
+ORD0141,2025-08-13,Kolkata,Female,41,Electronics,Mouse,2,14700,5,27930.0,Credit Card,Cancelled,2025-08
+ORD0142,2025-06-08,Ahmedabad,Male,41,Home & Kitchen,Water Bottle,2,2020,5,3838.0,Net Banking,Cancelled,2025-06
+ORD0143,2025-03-24,Bengaluru,Male,34,Home & Kitchen,Mixer Grinder,2,3770,15,6409.0,UPI,Cancelled,2025-03
+ORD0144,2025-03-05,Hyderabad,Male,28,Sports,Running Shoes,4,4380,20,14016.0,Debit Card,Cancelled,2025-03
+ORD0145,2025-08-19,Chennai,Male,44,Books,Data Science Guide,3,320,5,912.0,UPI,Cancelled,2025-08
+ORD0146,2025-01-15,Chennai,Male,39,Home & Kitchen,Cookware Set,1,1030,5,978.5,Credit Card,Delivered,2025-01
+ORD0147,2025-08-18,Lucknow,Male,23,Electronics,Power Bank,2,3100,15,5270.0,UPI,Delivered,2025-08
+ORD0148,2025-08-05,Delhi,Female,33,Electronics,Smart Watch,1,13280,20,10624.0,Debit Card,Delivered,2025-08
+ORD0149,2025-02-26,Ahmedabad,Male,50,Electronics,Power Bank,2,11470,0,22940.0,Net Banking,Delivered,2025-02
+ORD0150,2025-10-20,Pune,Male,23,Beauty,Perfume,1,1630,5,1548.5,Net Banking,Delivered,2025-10
+ORD0151,2025-10-11,Kolkata,Female,48,Electronics,Keyboard,1,14300,20,11440.0,UPI,Cancelled,2025-10
+ORD0152,2025-06-26,Bengaluru,Male,55,Books,Fiction Novel,2,660,0,1320.0,Debit Card,Delivered,2025-06
+ORD0153,2025-12-23,Ahmedabad,Male,26,Electronics,Keyboard,1,11820,15,10047.0,UPI,Cancelled,2025-12
+ORD0154,2025-06-11,Hyderabad,Female,52,Electronics,Smart Watch,1,4150,0,4150.0,Cash on Delivery,Delivered,2025-06
+ORD0155,2025-12-02,Chennai,Female,25,Electronics,Mouse,1,6880,0,6880.0,Debit Card,Cancelled,2025-12
+ORD0156,2025-04-06,Ahmedabad,Female,41,Books,History Book,1,1440,10,1296.0,Net Banking,Delivered,2025-04
+ORD0157,2025-10-07,Hyderabad,Female,24,Sports,Skipping Rope,1,2810,5,2669.5,UPI,Delivered,2025-10
+ORD0158,2025-12-20,Ahmedabad,Female,46,Beauty,Perfume,1,1860,5,1767.0,UPI,Delivered,2025-12
+ORD0159,2025-02-08,Pune,Female,50,Home & Kitchen,Bedsheet,1,6870,0,6870.0,Credit Card,Delivered,2025-02
+ORD0160,2025-02-04,Bengaluru,Female,41,Electronics,Keyboard,2,8280,5,15732.0,Cash on Delivery,Returned,2025-02
+ORD0161,2025-08-16,Delhi,Male,51,Electronics,Smart Watch,2,17110,10,30798.0,Debit Card,Cancelled,2025-08
+ORD0162,2025-09-13,Jaipur,Female,53,Clothing,Jacket,1,750,5,712.5,UPI,Delivered,2025-09
+ORD0163,2025-12-22,Ahmedabad,Male,25,Sports,Skipping Rope,1,5980,10,5382.0,Credit Card,Delivered,2025-12
+ORD0164,2025-12-08,Chennai,Male,53,Home & Kitchen,Water Bottle,1,1070,10,963.0,Net Banking,Delivered,2025-12
+ORD0165,2025-07-05,Jaipur,Male,25,Books,Data Science Guide,2,1410,5,2679.0,Credit Card,Delivered,2025-07
+ORD0166,2025-08-28,Jaipur,Male,23,Electronics,Power Bank,1,10280,10,9252.0,UPI,Delivered,2025-08
+ORD0167,2025-10-22,Delhi,Male,38,Clothing,Hoodie,2,2030,15,3451.0,UPI,Cancelled,2025-10
+ORD0168,2025-11-24,Lucknow,Male,26,Home & Kitchen,Storage Box,1,6210,20,4968.0,Cash on Delivery,Returned,2025-11
+ORD0169,2025-03-26,Mumbai,Female,32,Books,Python Basics,3,870,10,2349.0,Debit Card,Returned,2025-03
+ORD0170,2025-05-21,Mumbai,Female,52,Books,Python Basics,1,1030,20,824.0,UPI,Returned,2025-05
+ORD0171,2025-11-06,Chennai,Male,19,Beauty,Sunscreen,4,600,20,1920.0,UPI,Delivered,2025-11
+ORD0172,2025-08-02,Lucknow,Male,49,Books,Self Help Book,1,470,20,376.0,Net Banking,Delivered,2025-08
+ORD0173,2025-06-02,Ahmedabad,Male,21,Beauty,Perfume,1,2060,15,1751.0,Credit Card,Cancelled,2025-06
+ORD0174,2025-06-13,Chennai,Female,26,Clothing,Sneakers,1,2280,10,2052.0,Debit Card,Returned,2025-06
+ORD0175,2025-05-07,Mumbai,Male,21,Home & Kitchen,Mixer Grinder,1,1300,15,1105.0,Debit Card,Cancelled,2025-05
+ORD0176,2025-06-17,Lucknow,Female,30,Sports,Dumbbells,1,5250,5,4987.5,Credit Card,Cancelled,2025-06
+ORD0177,2025-02-16,Pune,Female,33,Books,Business Book,1,600,0,600.0,Credit Card,Returned,2025-02
+ORD0178,2025-05-27,Jaipur,Male,24,Clothing,T-Shirt,1,2250,15,1912.5,Cash on Delivery,Delivered,2025-05
+ORD0179,2025-07-25,Kolkata,Male,41,Books,History Book,1,720,0,720.0,Net Banking,Delivered,2025-07
+ORD0180,2025-12-15,Lucknow,Male,26,Electronics,Keyboard,1,10210,20,8168.0,UPI,Cancelled,2025-12
+ORD0181,2025-04-12,Lucknow,Female,50,Clothing,Jacket,2,1530,5,2907.0,UPI,Delivered,2025-04
+ORD0182,2025-03-18,Lucknow,Male,38,Electronics,Mouse,1,8900,15,7565.0,Net Banking,Delivered,2025-03
+ORD0183,2025-09-17,Jaipur,Female,54,Electronics,Keyboard,2,5880,10,10584.0,Debit Card,Cancelled,2025-09
+ORD0184,2025-10-26,Hyderabad,Male,48,Sports,Cricket Bat,1,1010,15,858.5,Debit Card,Returned,2025-10
+ORD0185,2025-11-19,Lucknow,Female,27,Home & Kitchen,Water Bottle,1,3620,20,2896.0,Credit Card,Delivered,2025-11
+ORD0186,2025-08-03,Mumbai,Female,31,Home & Kitchen,Water Bottle,1,620,10,558.0,Cash on Delivery,Returned,2025-08
+ORD0187,2025-12-28,Mumbai,Male,53,Sports,Dumbbells,3,4520,0,13560.0,Debit Card,Cancelled,2025-12
+ORD0188,2025-06-25,Jaipur,Female,34,Home & Kitchen,Mixer Grinder,4,3490,20,11168.0,Net Banking,Cancelled,2025-06
+ORD0189,2025-05-28,Bengaluru,Female,38,Electronics,Smart Watch,1,5860,10,5274.0,Cash on Delivery,Delivered,2025-05
+ORD0190,2025-07-14,Pune,Female,27,Home & Kitchen,Water Bottle,1,1290,20,1032.0,Debit Card,Delivered,2025-07
+ORD0191,2025-09-03,Bengaluru,Male,52,Clothing,Hoodie,1,3260,10,2934.0,Debit Card,Returned,2025-09
+ORD0192,2025-05-05,Kolkata,Male,32,Beauty,Moisturizer,1,1920,5,1824.0,UPI,Delivered,2025-05
+ORD0193,2025-01-03,Jaipur,Male,44,Clothing,Hoodie,1,2510,5,2384.5,Cash on Delivery,Cancelled,2025-01
+ORD0194,2025-11-30,Lucknow,Male,52,Beauty,Perfume,1,1700,0,1700.0,UPI,Delivered,2025-11
+ORD0195,2025-09-11,Mumbai,Female,20,Clothing,Jeans,4,510,15,1734.0,UPI,Delivered,2025-09
+ORD0196,2025-11-25,Jaipur,Female,26,Home & Kitchen,Coffee Maker,4,2680,15,9112.0,Net Banking,Cancelled,2025-11
+ORD0197,2025-04-06,Kolkata,Female,36,Clothing,T-Shirt,1,2670,10,2403.0,Net Banking,Delivered,2025-04
+ORD0198,2025-06-17,Delhi,Female,24,Electronics,Mouse,3,15010,20,36024.0,Credit Card,Delivered,2025-06
+ORD0199,2025-05-17,Chennai,Female,55,Home & Kitchen,Cookware Set,1,2990,15,2541.5,Net Banking,Delivered,2025-05
+ORD0200,2025-08-27,Hyderabad,Male,43,Clothing,Jacket,2,590,0,1180.0,Net Banking,Delivered,2025-08
+ORD0201,2025-04-24,Bengaluru,Male,48,Beauty,Hair Dryer,3,910,20,2184.0,Credit Card,Cancelled,2025-04
+ORD0202,2025-10-03,Bengaluru,Male,23,Sports,Running Shoes,1,4330,15,3680.5,Net Banking,Cancelled,2025-10
+ORD0203,2025-10-08,Jaipur,Male,54,Home & Kitchen,Mixer Grinder,1,4170,0,4170.0,Net Banking,Delivered,2025-10
+ORD0204,2025-09-08,Delhi,Female,21,Electronics,Keyboard,1,12470,20,9976.0,Cash on Delivery,Delivered,2025-09
+ORD0205,2025-01-12,Pune,Female,18,Home & Kitchen,Bedsheet,2,4130,10,7434.0,Credit Card,Returned,2025-01
+ORD0206,2025-02-05,Ahmedabad,Male,36,Electronics,Power Bank,1,1800,0,1800.0,Cash on Delivery,Delivered,2025-02
+ORD0207,2025-07-11,Pune,Female,42,Sports,Skipping Rope,4,4020,15,13668.0,Cash on Delivery,Delivered,2025-07
+ORD0208,2025-03-02,Mumbai,Female,51,Beauty,Hair Dryer,3,550,10,1485.0,Credit Card,Delivered,2025-03
+ORD0209,2025-08-06,Jaipur,Female,32,Sports,Yoga Mat,4,2990,20,9568.0,Credit Card,Cancelled,2025-08
+ORD0210,2025-01-17,Pune,Male,33,Clothing,Jacket,1,3110,0,3110.0,Credit Card,Delivered,2025-01
+ORD0211,2025-05-06,Kolkata,Female,46,Electronics,Wireless Headphones,1,12330,0,12330.0,Credit Card,Returned,2025-05
+ORD0212,2025-10-22,Chennai,Female,33,Electronics,Wireless Headphones,1,17890,5,16995.5,Debit Card,Delivered,2025-10
+ORD0213,2025-10-13,Lucknow,Male,45,Books,Self Help Book,1,590,0,590.0,Net Banking,Cancelled,2025-10
+ORD0214,2025-06-13,Pune,Female,27,Electronics,Bluetooth Speaker,4,12310,20,39392.0,Debit Card,Cancelled,2025-06
+ORD0215,2025-12-29,Mumbai,Female,21,Electronics,Keyboard,1,15390,10,13851.0,Net Banking,Cancelled,2025-12
+ORD0216,2025-04-15,Chennai,Male,46,Books,Self Help Book,1,700,10,630.0,Debit Card,Delivered,2025-04
+ORD0217,2025-11-05,Kolkata,Male,30,Home & Kitchen,Cookware Set,1,2950,20,2360.0,Net Banking,Returned,2025-11
+ORD0218,2025-04-19,Bengaluru,Male,48,Electronics,Smart Watch,3,6460,0,19380.0,Credit Card,Returned,2025-04
+ORD0219,2025-07-14,Ahmedabad,Female,37,Beauty,Lipstick,3,1490,10,4023.0,Debit Card,Delivered,2025-07
+ORD0220,2025-06-13,Bengaluru,Female,38,Home & Kitchen,Bedsheet,1,5720,15,4862.0,Cash on Delivery,Delivered,2025-06
+ORD0221,2025-10-27,Lucknow,Female,36,Home & Kitchen,Cookware Set,2,610,20,976.0,Credit Card,Delivered,2025-10
+ORD0222,2025-12-02,Chennai,Female,49,Clothing,Sneakers,2,1160,20,1856.0,Cash on Delivery,Cancelled,2025-12
+ORD0223,2025-04-05,Jaipur,Male,51,Electronics,Bluetooth Speaker,1,13160,15,11186.0,UPI,Delivered,2025-04
+ORD0224,2025-11-19,Bengaluru,Male,27,Books,History Book,1,210,5,199.5,UPI,Delivered,2025-11
+ORD0225,2025-09-05,Ahmedabad,Male,18,Home & Kitchen,Mixer Grinder,1,4650,20,3720.0,Net Banking,Returned,2025-09
+ORD0226,2025-01-09,Jaipur,Female,29,Clothing,T-Shirt,1,1250,10,1125.0,UPI,Delivered,2025-01
+ORD0227,2025-05-17,Pune,Male,41,Home & Kitchen,Cookware Set,1,3920,10,3528.0,Cash on Delivery,Cancelled,2025-05
+ORD0228,2025-12-01,Kolkata,Male,43,Home & Kitchen,Water Bottle,1,4950,0,4950.0,Cash on Delivery,Cancelled,2025-12
+ORD0229,2025-09-13,Pune,Female,54,Home & Kitchen,Coffee Maker,2,5070,0,10140.0,UPI,Returned,2025-09
+ORD0230,2025-09-01,Hyderabad,Male,22,Books,Data Science Guide,1,1330,20,1064.0,Debit Card,Returned,2025-09
+ORD0231,2025-04-17,Lucknow,Male,43,Home & Kitchen,Coffee Maker,1,6030,0,6030.0,UPI,Delivered,2025-04
+ORD0232,2025-06-19,Pune,Male,23,Electronics,Smart Watch,2,15400,20,24640.0,Net Banking,Delivered,2025-06
+ORD0233,2025-11-11,Lucknow,Female,38,Electronics,Power Bank,1,2020,20,1616.0,UPI,Delivered,2025-11
+ORD0234,2025-08-10,Mumbai,Female,23,Sports,Dumbbells,1,2390,15,2031.5,Net Banking,Delivered,2025-08
+ORD0235,2025-12-31,Mumbai,Female,38,Sports,Skipping Rope,1,1900,15,1615.0,Debit Card,Delivered,2025-12
+ORD0236,2025-03-09,Delhi,Male,45,Electronics,Bluetooth Speaker,1,13870,0,13870.0,Cash on Delivery,Returned,2025-03
+ORD0237,2025-02-17,Lucknow,Female,42,Home & Kitchen,Bedsheet,1,1080,20,864.0,UPI,Delivered,2025-02
+ORD0238,2025-10-20,Jaipur,Male,42,Clothing,T-Shirt,2,2130,5,4047.0,Credit Card,Delivered,2025-10
+ORD0239,2025-05-22,Pune,Female,48,Clothing,Jacket,1,600,15,510.0,UPI,Delivered,2025-05
+ORD0240,2025-04-11,Ahmedabad,Male,26,Clothing,Jeans,2,1940,20,3104.0,Debit Card,Delivered,2025-04
+ORD0241,2025-08-14,Chennai,Female,26,Books,Fiction Novel,3,690,10,1863.0,Debit Card,Delivered,2025-08
+ORD0242,2025-06-13,Hyderabad,Female,54,Home & Kitchen,Water Bottle,1,2540,15,2159.0,Credit Card,Delivered,2025-06
+ORD0243,2025-10-31,Jaipur,Male,53,Clothing,Sneakers,1,3290,5,3125.5,UPI,Cancelled,2025-10
+ORD0244,2025-07-29,Ahmedabad,Male,37,Books,Data Science Guide,1,580,0,580.0,Credit Card,Delivered,2025-07
+ORD0245,2025-11-03,Ahmedabad,Female,52,Beauty,Hair Dryer,1,1100,15,935.0,Net Banking,Cancelled,2025-11
+ORD0246,2025-11-23,Delhi,Male,33,Home & Kitchen,Mixer Grinder,2,5780,20,9248.0,Debit Card,Delivered,2025-11
+ORD0247,2025-06-19,Pune,Male,18,Beauty,Face Wash,2,1700,15,2890.0,UPI,Delivered,2025-06
+ORD0248,2025-04-24,Ahmedabad,Female,43,Electronics,Mouse,1,10740,20,8592.0,Cash on Delivery,Returned,2025-04
+ORD0249,2025-06-01,Pune,Male,25,Beauty,Moisturizer,1,310,0,310.0,Credit Card,Delivered,2025-06
+ORD0250,2025-09-01,Delhi,Female,46,Clothing,Sneakers,2,2020,10,3636.0,Debit Card,Delivered,2025-09
+ORD0251,2025-12-13,Mumbai,Male,51,Clothing,Hoodie,1,3030,0,3030.0,Credit Card,Returned,2025-12
+ORD0252,2025-11-19,Mumbai,Male,45,Electronics,Keyboard,1,8690,15,7386.5,Cash on Delivery,Delivered,2025-11
+ORD0253,2025-12-27,Bengaluru,Male,35,Beauty,Moisturizer,1,1220,0,1220.0,UPI,Returned,2025-12
+ORD0254,2025-02-28,Hyderabad,Female,51,Electronics,Keyboard,1,6340,15,5389.0,Debit Card,Returned,2025-02
+ORD0255,2025-11-13,Mumbai,Female,55,Clothing,Sneakers,2,1480,15,2516.0,UPI,Delivered,2025-11
+ORD0256,2025-09-19,Pune,Female,26,Clothing,Jeans,1,970,5,921.5,Net Banking,Cancelled,2025-09
+ORD0257,2025-10-12,Mumbai,Female,36,Clothing,Sneakers,2,2550,5,4845.0,Credit Card,Delivered,2025-10
+ORD0258,2025-09-06,Mumbai,Male,42,Clothing,Sneakers,2,3080,0,6160.0,Net Banking,Returned,2025-09
+ORD0259,2025-09-08,Mumbai,Male,54,Beauty,Lipstick,2,1190,15,2023.0,UPI,Delivered,2025-09
+ORD0260,2025-10-17,Ahmedabad,Male,54,Clothing,Jacket,1,1290,15,1096.5,UPI,Delivered,2025-10
+ORD0261,2025-10-07,Bengaluru,Female,24,Sports,Cricket Bat,1,4640,15,3944.0,Credit Card,Delivered,2025-10
+ORD0262,2025-08-13,Delhi,Male,31,Sports,Yoga Mat,1,2350,0,2350.0,Net Banking,Delivered,2025-08
+ORD0263,2025-04-16,Bengaluru,Male,54,Sports,Running Shoes,2,1330,5,2527.0,Debit Card,Returned,2025-04
+ORD0264,2025-05-29,Lucknow,Female,50,Clothing,Dress,1,3430,10,3087.0,UPI,Delivered,2025-05
+ORD0265,2025-12-26,Mumbai,Male,27,Books,Business Book,3,1490,5,4246.5,Debit Card,Delivered,2025-12
+ORD0266,2025-11-18,Pune,Female,46,Sports,Skipping Rope,1,1200,10,1080.0,UPI,Delivered,2025-11
+ORD0267,2025-08-21,Ahmedabad,Female,55,Clothing,Hoodie,1,3300,10,2970.0,UPI,Delivered,2025-08
+ORD0268,2025-10-01,Pune,Male,45,Beauty,Lipstick,2,1820,0,3640.0,Credit Card,Cancelled,2025-10
+ORD0269,2025-09-06,Chennai,Male,20,Clothing,Jacket,1,2190,20,1752.0,UPI,Cancelled,2025-09
+ORD0270,2025-04-14,Mumbai,Female,28,Electronics,Smart Watch,1,710,15,603.5,Debit Card,Delivered,2025-04
+ORD0271,2025-01-27,Pune,Female,32,Beauty,Perfume,1,1750,5,1662.5,Cash on Delivery,Delivered,2025-01
+ORD0272,2025-04-26,Jaipur,Female,18,Beauty,Face Wash,1,430,20,344.0,UPI,Delivered,2025-04
+ORD0273,2025-07-16,Delhi,Male,24,Sports,Dumbbells,2,3080,5,5852.0,Debit Card,Delivered,2025-07
+ORD0274,2025-11-25,Mumbai,Male,51,Books,Data Science Guide,1,1260,5,1197.0,Net Banking,Delivered,2025-11
+ORD0275,2025-07-30,Lucknow,Female,31,Home & Kitchen,Cookware Set,1,5200,5,4940.0,UPI,Delivered,2025-07
+ORD0276,2025-06-11,Mumbai,Male,35,Electronics,Wireless Headphones,2,7340,15,12478.0,UPI,Delivered,2025-06
+ORD0277,2025-12-04,Hyderabad,Male,51,Home & Kitchen,Storage Box,2,2350,0,4700.0,Net Banking,Returned,2025-12
+ORD0278,2025-09-11,Pune,Male,33,Electronics,Power Bank,1,1640,5,1558.0,Cash on Delivery,Returned,2025-09
+ORD0279,2025-07-18,Lucknow,Female,41,Electronics,Wireless Headphones,5,16860,5,80085.0,Net Banking,Delivered,2025-07
+ORD0280,2025-04-21,Kolkata,Male,43,Sports,Yoga Mat,1,780,10,702.0,Net Banking,Delivered,2025-04
+ORD0281,2025-02-12,Jaipur,Male,35,Beauty,Sunscreen,2,1200,15,2040.0,UPI,Delivered,2025-02
+ORD0282,2025-07-20,Lucknow,Male,37,Electronics,Smart Watch,4,3390,10,12204.0,Cash on Delivery,Delivered,2025-07
+ORD0283,2025-11-08,Kolkata,Female,29,Electronics,Wireless Headphones,4,2710,20,8672.0,UPI,Delivered,2025-11
+ORD0284,2025-09-25,Jaipur,Female,28,Beauty,Hair Dryer,1,1370,10,1233.0,Debit Card,Delivered,2025-09
+ORD0285,2025-06-21,Pune,Female,51,Sports,Cricket Bat,2,1060,0,2120.0,UPI,Delivered,2025-06
+ORD0286,2025-07-04,Kolkata,Female,54,Beauty,Sunscreen,2,1370,20,2192.0,Credit Card,Delivered,2025-07
+ORD0287,2025-04-27,Jaipur,Male,20,Electronics,Wireless Headphones,3,12360,0,37080.0,UPI,Delivered,2025-04
+ORD0288,2025-10-11,Pune,Male,38,Electronics,Bluetooth Speaker,1,3300,0,3300.0,Credit Card,Cancelled,2025-10
+ORD0289,2025-03-03,Jaipur,Male,29,Books,Fiction Novel,1,300,10,270.0,Credit Card,Returned,2025-03
+ORD0290,2025-06-09,Chennai,Male,53,Books,Business Book,1,800,10,720.0,Cash on Delivery,Delivered,2025-06
+ORD0291,2025-05-05,Ahmedabad,Female,55,Clothing,Jacket,2,1340,20,2144.0,Cash on Delivery,Delivered,2025-05
+ORD0292,2025-07-29,Kolkata,Male,52,Beauty,Sunscreen,2,800,0,1600.0,Debit Card,Delivered,2025-07
+ORD0293,2025-02-23,Bengaluru,Male,44,Books,Python Basics,2,690,10,1242.0,Cash on Delivery,Delivered,2025-02
+ORD0294,2025-09-24,Pune,Female,47,Books,Data Science Guide,2,320,5,608.0,UPI,Returned,2025-09
+ORD0295,2025-10-18,Kolkata,Female,26,Electronics,Smart Watch,2,7520,20,12032.0,Credit Card,Delivered,2025-10
+ORD0296,2025-06-12,Ahmedabad,Female,32,Clothing,Jacket,4,1620,10,5832.0,UPI,Delivered,2025-06
+ORD0297,2025-08-27,Chennai,Female,25,Electronics,Keyboard,1,2530,15,2150.5,Net Banking,Delivered,2025-08
+ORD0298,2025-02-16,Mumbai,Female,20,Books,Data Science Guide,1,800,0,800.0,Credit Card,Delivered,2025-02
+ORD0299,2025-01-26,Hyderabad,Female,29,Electronics,Mouse,1,6850,20,5480.0,UPI,Cancelled,2025-01
+ORD0300,2025-02-22,Mumbai,Male,18,Sports,Running Shoes,2,1800,15,3060.0,UPI,Delivered,2025-02
+ORD0301,2025-10-26,Lucknow,Female,22,Electronics,Power Bank,1,11600,0,11600.0,UPI,Delivered,2025-10
+ORD0302,2025-03-04,Kolkata,Female,21,Electronics,Mouse,1,2930,10,2637.0,Credit Card,Returned,2025-03
+ORD0303,2025-03-30,Chennai,Male,29,Clothing,Hoodie,1,490,15,416.5,Debit Card,Delivered,2025-03
+ORD0304,2025-11-28,Hyderabad,Female,44,Home & Kitchen,Cookware Set,1,4520,5,4294.0,Net Banking,Cancelled,2025-11
+ORD0305,2025-05-08,Jaipur,Male,42,Electronics,Bluetooth Speaker,1,7950,20,6360.0,Debit Card,Cancelled,2025-05
+ORD0306,2025-07-18,Hyderabad,Male,19,Home & Kitchen,Bedsheet,1,4180,10,3762.0,Debit Card,Returned,2025-07
+ORD0307,2025-07-03,Lucknow,Male,28,Electronics,Bluetooth Speaker,1,17850,20,14280.0,UPI,Delivered,2025-07
+ORD0308,2025-04-23,Lucknow,Female,40,Beauty,Perfume,1,2030,0,2030.0,Credit Card,Delivered,2025-04
+ORD0309,2025-01-15,Chennai,Male,54,Electronics,Bluetooth Speaker,3,12770,20,30648.0,Credit Card,Cancelled,2025-01
+ORD0310,2025-11-05,Bengaluru,Male,51,Home & Kitchen,Cookware Set,1,1090,5,1035.5,Cash on Delivery,Delivered,2025-11
+ORD0311,2025-06-15,Kolkata,Male,27,Clothing,Dress,1,800,5,760.0,Net Banking,Delivered,2025-06
+ORD0312,2025-12-27,Pune,Male,39,Sports,Running Shoes,3,5780,10,15606.0,Debit Card,Delivered,2025-12
+ORD0313,2025-11-29,Chennai,Male,53,Electronics,Smart Watch,2,8260,15,14042.0,Net Banking,Delivered,2025-11
+ORD0314,2025-03-07,Mumbai,Male,54,Electronics,Keyboard,3,7250,10,19575.0,Cash on Delivery,Returned,2025-03
+ORD0315,2025-04-24,Lucknow,Male,49,Electronics,Keyboard,1,14690,20,11752.0,Credit Card,Delivered,2025-04
+ORD0316,2025-12-29,Chennai,Female,18,Sports,Football,1,2190,0,2190.0,Debit Card,Delivered,2025-12
+ORD0317,2025-01-25,Pune,Female,44,Clothing,T-Shirt,1,2840,0,2840.0,Credit Card,Cancelled,2025-01
+ORD0318,2025-10-23,Bengaluru,Male,46,Home & Kitchen,Bedsheet,1,2940,15,2499.0,UPI,Delivered,2025-10
+ORD0319,2025-03-29,Pune,Male,22,Clothing,Jacket,1,720,10,648.0,Net Banking,Delivered,2025-03
+ORD0320,2025-12-01,Mumbai,Female,28,Clothing,Dress,3,2580,15,6579.0,UPI,Delivered,2025-12
+ORD0321,2025-05-16,Hyderabad,Female,33,Clothing,Jeans,1,2120,20,1696.0,UPI,Delivered,2025-05
+ORD0322,2025-01-02,Pune,Male,36,Clothing,Dress,3,880,10,2376.0,Net Banking,Cancelled,2025-01
+ORD0323,2025-08-31,Delhi,Female,43,Electronics,Wireless Headphones,1,11740,0,11740.0,Cash on Delivery,Cancelled,2025-08
+ORD0324,2025-07-09,Pune,Female,29,Books,Fiction Novel,1,910,5,864.5,Cash on Delivery,Delivered,2025-07
+ORD0325,2025-02-01,Mumbai,Male,23,Clothing,Sneakers,1,2990,20,2392.0,Debit Card,Returned,2025-02
+ORD0326,2025-09-25,Pune,Female,54,Clothing,Dress,1,590,15,501.5,Credit Card,Cancelled,2025-09
+ORD0327,2025-10-20,Jaipur,Male,25,Clothing,Sneakers,3,2610,20,6264.0,Cash on Delivery,Delivered,2025-10
+ORD0328,2025-01-22,Pune,Male,45,Books,Data Science Guide,4,1250,5,4750.0,Credit Card,Delivered,2025-01
+ORD0329,2025-02-14,Pune,Female,53,Sports,Cricket Bat,1,4470,0,4470.0,Debit Card,Delivered,2025-02
+ORD0330,2025-08-03,Delhi,Female,27,Home & Kitchen,Coffee Maker,2,4550,20,7280.0,Credit Card,Returned,2025-08
+ORD0331,2025-05-27,Jaipur,Female,44,Home & Kitchen,Coffee Maker,4,4160,0,16640.0,Debit Card,Cancelled,2025-05
+ORD0332,2025-07-26,Mumbai,Female,20,Beauty,Sunscreen,2,330,10,594.0,Cash on Delivery,Delivered,2025-07
+ORD0333,2025-01-11,Chennai,Female,37,Beauty,Face Wash,2,2320,10,4176.0,Debit Card,Cancelled,2025-01
+ORD0334,2025-06-03,Ahmedabad,Female,35,Sports,Skipping Rope,1,5270,5,5006.5,Cash on Delivery,Returned,2025-06
+ORD0335,2025-09-06,Jaipur,Female,21,Beauty,Moisturizer,1,2310,15,1963.5,Net Banking,Delivered,2025-09
+ORD0336,2025-10-19,Kolkata,Male,30,Electronics,Mouse,1,3050,20,2440.0,Credit Card,Delivered,2025-10
+ORD0337,2025-05-21,Chennai,Female,50,Clothing,Sneakers,1,1520,5,1444.0,Cash on Delivery,Delivered,2025-05
+ORD0338,2025-08-31,Lucknow,Female,40,Beauty,Moisturizer,1,1590,5,1510.5,Credit Card,Delivered,2025-08
+ORD0339,2025-03-25,Lucknow,Male,32,Sports,Skipping Rope,1,550,0,550.0,Credit Card,Delivered,2025-03
+ORD0340,2025-08-31,Mumbai,Male,18,Clothing,Sneakers,1,3080,0,3080.0,Credit Card,Delivered,2025-08
+ORD0341,2025-08-05,Pune,Female,47,Home & Kitchen,Mixer Grinder,2,5110,10,9198.0,Debit Card,Delivered,2025-08
+ORD0342,2025-02-22,Kolkata,Female,53,Home & Kitchen,Water Bottle,1,4550,20,3640.0,Net Banking,Returned,2025-02
+ORD0343,2025-11-24,Chennai,Female,34,Clothing,Hoodie,1,600,10,540.0,Debit Card,Delivered,2025-11
+ORD0344,2025-07-26,Chennai,Male,19,Electronics,Smart Watch,3,14630,20,35112.0,Cash on Delivery,Delivered,2025-07
+ORD0345,2025-12-29,Lucknow,Male,39,Clothing,Sneakers,1,2680,20,2144.0,Credit Card,Returned,2025-12
+ORD0346,2025-06-03,Mumbai,Male,36,Beauty,Lipstick,3,1760,20,4224.0,UPI,Cancelled,2025-06
+ORD0347,2025-12-15,Chennai,Male,32,Electronics,Bluetooth Speaker,2,10370,5,19703.0,Debit Card,Delivered,2025-12
+ORD0348,2025-05-14,Lucknow,Female,47,Sports,Cricket Bat,1,5370,10,4833.0,UPI,Cancelled,2025-05
+ORD0349,2025-08-30,Bengaluru,Male,42,Electronics,Mouse,2,17040,0,34080.0,Net Banking,Delivered,2025-08
+ORD0350,2025-10-19,Ahmedabad,Male,38,Clothing,Jeans,1,1020,15,867.0,Credit Card,Delivered,2025-10
+ORD0351,2025-01-03,Ahmedabad,Female,31,Home & Kitchen,Water Bottle,5,2540,0,12700.0,Credit Card,Returned,2025-01
+ORD0352,2025-11-11,Pune,Female,43,Sports,Dumbbells,2,4770,5,9063.0,Cash on Delivery,Cancelled,2025-11
+ORD0353,2025-06-14,Jaipur,Male,19,Clothing,T-Shirt,1,2670,0,2670.0,UPI,Delivered,2025-06
+ORD0354,2025-10-29,Hyderabad,Male,22,Electronics,Bluetooth Speaker,1,2480,20,1984.0,UPI,Delivered,2025-10
+ORD0355,2025-08-11,Mumbai,Female,49,Books,Business Book,2,980,10,1764.0,Debit Card,Delivered,2025-08
+ORD0356,2025-04-19,Kolkata,Male,25,Electronics,Power Bank,1,4580,5,4351.0,Debit Card,Delivered,2025-04
+ORD0357,2025-11-01,Kolkata,Male,19,Clothing,Hoodie,1,2060,0,2060.0,UPI,Delivered,2025-11
+ORD0358,2025-04-16,Kolkata,Female,44,Clothing,Sneakers,1,1180,5,1121.0,UPI,Returned,2025-04
+ORD0359,2025-09-19,Lucknow,Male,36,Clothing,Dress,2,1700,0,3400.0,UPI,Delivered,2025-09
+ORD0360,2025-04-14,Chennai,Female,36,Home & Kitchen,Storage Box,1,2210,20,1768.0,Credit Card,Delivered,2025-04
+ORD0361,2025-01-02,Kolkata,Male,25,Home & Kitchen,Cookware Set,2,3620,5,6878.0,Net Banking,Cancelled,2025-01
+ORD0362,2025-05-12,Bengaluru,Female,36,Electronics,Wireless Headphones,2,2000,0,4000.0,Debit Card,Cancelled,2025-05
+ORD0363,2025-12-13,Chennai,Female,25,Electronics,Smart Watch,3,15440,10,41688.0,UPI,Delivered,2025-12
+ORD0364,2025-08-13,Lucknow,Female,23,Electronics,Smart Watch,2,3650,10,6570.0,Debit Card,Delivered,2025-08
+ORD0365,2025-12-20,Ahmedabad,Female,28,Electronics,Power Bank,1,8600,15,7310.0,UPI,Delivered,2025-12
+ORD0366,2025-08-02,Lucknow,Female,54,Beauty,Face Wash,5,2150,0,10750.0,Cash on Delivery,Delivered,2025-08
+ORD0367,2025-09-05,Ahmedabad,Male,44,Home & Kitchen,Mixer Grinder,2,6110,5,11609.0,Cash on Delivery,Delivered,2025-09
+ORD0368,2025-10-23,Lucknow,Male,39,Electronics,Mouse,1,12890,20,10312.0,Net Banking,Returned,2025-10
+ORD0369,2025-09-04,Chennai,Female,27,Beauty,Sunscreen,1,1740,5,1653.0,Net Banking,Returned,2025-09
+ORD0370,2025-09-11,Mumbai,Male,49,Electronics,Mouse,4,9450,15,32130.0,Debit Card,Delivered,2025-09
+ORD0371,2025-07-26,Bengaluru,Male,47,Clothing,Jacket,1,1090,15,926.5,Cash on Delivery,Returned,2025-07
+ORD0372,2025-12-01,Kolkata,Male,43,Home & Kitchen,Bedsheet,1,1270,15,1079.5,Cash on Delivery,Delivered,2025-12
+ORD0373,2025-11-23,Hyderabad,Male,47,Home & Kitchen,Coffee Maker,3,5650,20,13560.0,Debit Card,Delivered,2025-11
+ORD0374,2025-11-04,Ahmedabad,Female,46,Sports,Football,3,2260,20,5424.0,UPI,Delivered,2025-11
+ORD0375,2025-10-08,Jaipur,Female,24,Sports,Football,1,2390,10,2151.0,UPI,Delivered,2025-10
+ORD0376,2025-11-09,Bengaluru,Male,25,Home & Kitchen,Water Bottle,2,3160,10,5688.0,Cash on Delivery,Delivered,2025-11
+ORD0377,2025-01-24,Lucknow,Male,46,Home & Kitchen,Cookware Set,2,1200,15,2040.0,Cash on Delivery,Returned,2025-01
+ORD0378,2025-10-11,Pune,Female,50,Books,Data Science Guide,4,210,0,840.0,Credit Card,Returned,2025-10
+ORD0379,2025-06-14,Jaipur,Female,44,Electronics,Smart Watch,1,12080,20,9664.0,Net Banking,Delivered,2025-06
+ORD0380,2025-03-12,Pune,Female,53,Clothing,Jacket,4,1800,5,6840.0,Debit Card,Returned,2025-03
+ORD0381,2025-12-11,Mumbai,Male,50,Beauty,Moisturizer,1,1860,10,1674.0,Net Banking,Delivered,2025-12
+ORD0382,2025-12-12,Jaipur,Female,45,Beauty,Perfume,2,1560,15,2652.0,UPI,Returned,2025-12
+ORD0383,2025-05-17,Mumbai,Female,34,Electronics,Power Bank,1,12300,5,11685.0,Credit Card,Delivered,2025-05
+ORD0384,2025-08-20,Delhi,Male,53,Beauty,Perfume,1,1470,10,1323.0,Cash on Delivery,Delivered,2025-08
+ORD0385,2025-07-18,Pune,Female,53,Home & Kitchen,Water Bottle,1,4820,15,4097.0,UPI,Delivered,2025-07
+ORD0386,2025-04-26,Chennai,Male,30,Sports,Football,2,4770,15,8109.0,Debit Card,Cancelled,2025-04
+ORD0387,2025-03-03,Pune,Male,45,Electronics,Mouse,1,17350,20,13880.0,Debit Card,Returned,2025-03
+ORD0388,2025-08-27,Mumbai,Male,27,Clothing,Jeans,2,1190,10,2142.0,Debit Card,Returned,2025-08
+ORD0389,2025-10-21,Jaipur,Female,22,Electronics,Mouse,2,12150,15,20655.0,Debit Card,Returned,2025-10
+ORD0390,2025-08-01,Jaipur,Female,23,Electronics,Smart Watch,1,14300,5,13585.0,Debit Card,Delivered,2025-08
+ORD0391,2025-11-13,Jaipur,Female,53,Books,History Book,1,670,5,636.5,UPI,Delivered,2025-11
+ORD0392,2025-05-05,Kolkata,Female,42,Beauty,Lipstick,1,1700,20,1360.0,UPI,Cancelled,2025-05
+ORD0393,2025-09-21,Jaipur,Female,49,Clothing,Hoodie,1,3230,10,2907.0,UPI,Delivered,2025-09
+ORD0394,2025-03-27,Jaipur,Male,22,Books,Data Science Guide,1,310,0,310.0,Credit Card,Delivered,2025-03
+ORD0395,2025-11-28,Delhi,Male,19,Sports,Dumbbells,3,1550,15,3952.5,Cash on Delivery,Delivered,2025-11
+ORD0396,2025-02-06,Lucknow,Male,34,Electronics,Wireless Headphones,1,14440,20,11552.0,Cash on Delivery,Cancelled,2025-02
+ORD0397,2025-10-01,Kolkata,Male,55,Home & Kitchen,Bedsheet,1,610,0,610.0,UPI,Delivered,2025-10
+ORD0398,2025-11-07,Delhi,Female,46,Clothing,Dress,1,2840,10,2556.0,Cash on Delivery,Cancelled,2025-11
+ORD0399,2025-07-20,Jaipur,Female,27,Sports,Yoga Mat,1,3390,5,3220.5,Debit Card,Delivered,2025-07
+ORD0400,2025-01-22,Kolkata,Female,52,Books,Python Basics,2,920,0,1840.0,Net Banking,Delivered,2025-01
+ORD0401,2025-07-31,Jaipur,Male,28,Clothing,Hoodie,2,2650,5,5035.0,Credit Card,Delivered,2025-07
+ORD0402,2025-01-28,Jaipur,Female,53,Home & Kitchen,Mixer Grinder,1,1680,20,1344.0,UPI,Delivered,2025-01
+ORD0403,2025-06-19,Chennai,Male,33,Beauty,Perfume,1,1880,15,1598.0,UPI,Delivered,2025-06
+ORD0404,2025-12-04,Hyderabad,Male,54,Home & Kitchen,Cookware Set,1,3430,20,2744.0,Net Banking,Delivered,2025-12
+ORD0405,2025-12-31,Pune,Female,41,Sports,Dumbbells,1,2150,5,2042.5,Credit Card,Delivered,2025-12
+ORD0406,2025-10-10,Delhi,Male,23,Sports,Dumbbells,1,4740,15,4029.0,Debit Card,Delivered,2025-10
+ORD0407,2025-02-08,Kolkata,Male,55,Books,Data Science Guide,1,1350,0,1350.0,Net Banking,Cancelled,2025-02
+ORD0408,2025-10-04,Ahmedabad,Male,41,Sports,Football,3,3490,20,8376.0,Cash on Delivery,Delivered,2025-10
+ORD0409,2025-09-14,Jaipur,Male,43,Books,Self Help Book,2,580,15,986.0,Debit Card,Returned,2025-09
+ORD0410,2025-12-17,Mumbai,Male,46,Electronics,Smart Watch,3,14650,20,35160.0,Credit Card,Delivered,2025-12
+ORD0411,2025-07-03,Kolkata,Male,49,Home & Kitchen,Storage Box,2,6790,15,11543.0,Credit Card,Delivered,2025-07
+ORD0412,2025-07-18,Ahmedabad,Female,20,Clothing,Jeans,1,1040,10,936.0,UPI,Delivered,2025-07
+ORD0413,2025-10-24,Jaipur,Male,42,Electronics,Keyboard,2,5430,10,9774.0,Cash on Delivery,Delivered,2025-10
+ORD0414,2025-09-22,Pune,Female,40,Home & Kitchen,Coffee Maker,1,2950,5,2802.5,Cash on Delivery,Cancelled,2025-09
+ORD0415,2025-04-28,Delhi,Female,31,Books,Python Basics,1,380,5,361.0,Credit Card,Delivered,2025-04
+ORD0416,2025-08-01,Chennai,Male,48,Electronics,Keyboard,2,2750,5,5225.0,Cash on Delivery,Cancelled,2025-08
+ORD0417,2025-01-23,Mumbai,Male,26,Electronics,Smart Watch,2,7810,5,14839.0,Net Banking,Delivered,2025-01
+ORD0418,2025-09-22,Pune,Male,36,Books,Data Science Guide,1,540,5,513.0,UPI,Delivered,2025-09
+ORD0419,2025-11-04,Mumbai,Male,50,Home & Kitchen,Bedsheet,3,1610,15,4105.5,Debit Card,Delivered,2025-11
+ORD0420,2025-04-28,Pune,Female,26,Beauty,Perfume,4,1590,0,6360.0,UPI,Delivered,2025-04
+ORD0421,2025-02-19,Mumbai,Female,20,Electronics,Keyboard,2,15000,20,24000.0,Net Banking,Returned,2025-02
+ORD0422,2025-10-04,Kolkata,Female,51,Sports,Yoga Mat,1,1130,20,904.0,Cash on Delivery,Delivered,2025-10
+ORD0423,2025-07-15,Chennai,Male,45,Sports,Skipping Rope,1,1690,15,1436.5,Credit Card,Delivered,2025-07
+ORD0424,2025-10-06,Pune,Female,30,Home & Kitchen,Cookware Set,3,1040,20,2496.0,UPI,Delivered,2025-10
+ORD0425,2025-12-19,Chennai,Female,41,Home & Kitchen,Coffee Maker,1,2940,5,2793.0,UPI,Delivered,2025-12
+ORD0426,2025-10-17,Chennai,Female,43,Clothing,Dress,1,3050,15,2592.5,Credit Card,Cancelled,2025-10
+ORD0427,2025-09-05,Hyderabad,Female,54,Home & Kitchen,Storage Box,1,2910,20,2328.0,Debit Card,Cancelled,2025-09
+ORD0428,2025-02-21,Bengaluru,Female,39,Beauty,Hair Dryer,1,770,5,731.5,Net Banking,Returned,2025-02
+ORD0429,2025-02-16,Mumbai,Female,45,Beauty,Hair Dryer,1,1130,0,1130.0,UPI,Delivered,2025-02
+ORD0430,2025-07-25,Lucknow,Female,21,Clothing,Jacket,1,520,15,442.0,Credit Card,Cancelled,2025-07
+ORD0431,2025-05-27,Bengaluru,Male,50,Clothing,Jeans,3,3290,20,7896.0,Net Banking,Delivered,2025-05
+ORD0432,2025-03-22,Delhi,Female,43,Home & Kitchen,Water Bottle,1,2060,0,2060.0,Debit Card,Cancelled,2025-03
+ORD0433,2025-02-16,Jaipur,Female,53,Clothing,Jeans,1,2680,0,2680.0,Net Banking,Delivered,2025-02
+ORD0434,2025-07-26,Lucknow,Male,34,Clothing,Jacket,1,3390,15,2881.5,Credit Card,Cancelled,2025-07
+ORD0435,2025-09-20,Hyderabad,Female,46,Home & Kitchen,Storage Box,1,2410,0,2410.0,Cash on Delivery,Returned,2025-09
+ORD0436,2025-12-15,Ahmedabad,Male,48,Home & Kitchen,Cookware Set,2,6750,15,11475.0,UPI,Delivered,2025-12
+ORD0437,2025-06-11,Pune,Female,51,Electronics,Mouse,2,4510,5,8569.0,Net Banking,Delivered,2025-06
+ORD0438,2025-02-08,Jaipur,Male,48,Beauty,Perfume,1,460,10,414.0,Debit Card,Delivered,2025-02
+ORD0439,2025-09-13,Bengaluru,Male,33,Electronics,Keyboard,1,17090,5,16235.5,Debit Card,Delivered,2025-09
+ORD0440,2025-03-03,Delhi,Female,18,Electronics,Smart Watch,3,6860,0,20580.0,Net Banking,Delivered,2025-03
+ORD0441,2025-05-21,Ahmedabad,Male,50,Sports,Cricket Bat,2,3160,20,5056.0,Debit Card,Cancelled,2025-05
+ORD0442,2025-09-02,Jaipur,Male,50,Electronics,Keyboard,1,9800,15,8330.0,Debit Card,Cancelled,2025-09
+ORD0443,2025-08-24,Chennai,Male,18,Sports,Football,1,1070,20,856.0,Credit Card,Cancelled,2025-08
+ORD0444,2025-10-08,Hyderabad,Male,35,Home & Kitchen,Mixer Grinder,1,6100,5,5795.0,Cash on Delivery,Returned,2025-10
+ORD0445,2025-07-06,Pune,Female,46,Clothing,Jeans,1,1050,10,945.0,Credit Card,Returned,2025-07
+ORD0446,2025-05-01,Jaipur,Female,42,Electronics,Keyboard,2,14790,10,26622.0,Credit Card,Delivered,2025-05
+ORD0447,2025-08-04,Ahmedabad,Male,51,Sports,Skipping Rope,1,4910,5,4664.5,Net Banking,Delivered,2025-08
+ORD0448,2025-07-23,Delhi,Male,21,Sports,Cricket Bat,1,5210,0,5210.0,Credit Card,Delivered,2025-07
+ORD0449,2025-07-04,Chennai,Female,40,Home & Kitchen,Water Bottle,1,5340,10,4806.0,UPI,Cancelled,2025-07
+ORD0450,2025-11-29,Jaipur,Male,36,Electronics,Mouse,4,4140,20,13248.0,Debit Card,Delivered,2025-11
+ORD0451,2025-07-15,Lucknow,Female,47,Beauty,Lipstick,2,1260,0,2520.0,Credit Card,Delivered,2025-07
+ORD0452,2025-02-06,Delhi,Male,39,Beauty,Perfume,1,1630,15,1385.5,Credit Card,Delivered,2025-02
+ORD0453,2025-05-19,Ahmedabad,Female,55,Clothing,Jacket,2,2280,15,3876.0,Net Banking,Cancelled,2025-05
+ORD0454,2025-12-05,Hyderabad,Male,31,Clothing,Jeans,3,790,5,2251.5,Credit Card,Cancelled,2025-12
+ORD0455,2025-01-14,Pune,Male,24,Electronics,Wireless Headphones,4,8890,0,35560.0,Debit Card,Returned,2025-01
+ORD0456,2025-05-07,Hyderabad,Female,26,Electronics,Mouse,4,7440,5,28272.0,Credit Card,Returned,2025-05
+ORD0457,2025-09-01,Ahmedabad,Female,53,Sports,Yoga Mat,1,2400,10,2160.0,Cash on Delivery,Delivered,2025-09
+ORD0458,2025-11-20,Lucknow,Female,51,Books,History Book,1,970,15,824.5,Net Banking,Delivered,2025-11
+ORD0459,2025-06-07,Chennai,Female,34,Books,Business Book,1,1250,15,1062.5,Credit Card,Delivered,2025-06
+ORD0460,2025-05-27,Ahmedabad,Male,49,Electronics,Keyboard,3,15370,10,41499.0,Cash on Delivery,Delivered,2025-05
+ORD0461,2025-10-08,Chennai,Male,44,Electronics,Power Bank,2,11030,0,22060.0,Net Banking,Cancelled,2025-10
+ORD0462,2025-04-23,Hyderabad,Male,45,Clothing,Jeans,2,2400,15,4080.0,Credit Card,Returned,2025-04
+ORD0463,2025-11-29,Jaipur,Female,44,Sports,Running Shoes,3,4230,10,11421.0,Credit Card,Delivered,2025-11
+ORD0464,2025-05-20,Lucknow,Female,30,Electronics,Bluetooth Speaker,1,8580,15,7293.0,Debit Card,Delivered,2025-05
+ORD0465,2025-05-18,Mumbai,Female,18,Electronics,Keyboard,1,17520,10,15768.0,Credit Card,Delivered,2025-05
+ORD0466,2025-07-10,Ahmedabad,Male,39,Electronics,Power Bank,1,7970,15,6774.5,UPI,Delivered,2025-07
+ORD0467,2025-05-09,Pune,Male,25,Electronics,Power Bank,1,8830,5,8388.5,Credit Card,Cancelled,2025-05
+ORD0468,2025-08-24,Delhi,Male,48,Sports,Dumbbells,1,5970,5,5671.5,Cash on Delivery,Delivered,2025-08
+ORD0469,2025-09-24,Delhi,Female,48,Books,Data Science Guide,2,250,20,400.0,Debit Card,Delivered,2025-09
+ORD0470,2025-05-01,Pune,Female,18,Clothing,T-Shirt,3,1080,0,3240.0,Credit Card,Delivered,2025-05
+ORD0471,2025-10-25,Ahmedabad,Male,41,Home & Kitchen,Bedsheet,2,560,0,1120.0,UPI,Delivered,2025-10
+ORD0472,2025-01-31,Chennai,Male,52,Electronics,Wireless Headphones,2,6550,0,13100.0,UPI,Delivered,2025-01
+ORD0473,2025-08-13,Bengaluru,Male,42,Home & Kitchen,Mixer Grinder,5,5630,10,25335.0,Debit Card,Delivered,2025-08
+ORD0474,2025-10-05,Ahmedabad,Male,54,Clothing,T-Shirt,1,1760,10,1584.0,Credit Card,Returned,2025-10
+ORD0475,2025-10-11,Mumbai,Male,51,Clothing,Hoodie,1,3090,20,2472.0,Credit Card,Cancelled,2025-10
+ORD0476,2025-07-14,Mumbai,Male,41,Clothing,Jacket,1,1810,20,1448.0,Net Banking,Delivered,2025-07
+ORD0477,2025-04-08,Jaipur,Female,53,Clothing,T-Shirt,2,2070,15,3519.0,Credit Card,Returned,2025-04
+ORD0478,2025-12-04,Delhi,Male,26,Clothing,Sneakers,2,740,20,1184.0,Credit Card,Delivered,2025-12
+ORD0479,2025-12-03,Ahmedabad,Female,21,Electronics,Power Bank,1,1250,15,1062.5,Debit Card,Delivered,2025-12
+ORD0480,2025-02-10,Ahmedabad,Male,41,Home & Kitchen,Coffee Maker,1,6490,15,5516.5,Net Banking,Cancelled,2025-02
+ORD0481,2025-01-21,Delhi,Female,22,Sports,Skipping Rope,1,3850,20,3080.0,Credit Card,Returned,2025-01
+ORD0482,2025-09-27,Bengaluru,Male,53,Electronics,Mouse,1,7370,5,7001.5,Net Banking,Cancelled,2025-09
+ORD0483,2025-02-23,Mumbai,Male,53,Sports,Skipping Rope,2,4180,15,7106.0,Cash on Delivery,Returned,2025-02
+ORD0484,2025-06-11,Jaipur,Female,41,Clothing,Jeans,1,2260,10,2034.0,Cash on Delivery,Cancelled,2025-06
+ORD0485,2025-07-12,Jaipur,Female,41,Sports,Cricket Bat,2,3550,5,6745.0,Cash on Delivery,Cancelled,2025-07
+ORD0486,2025-01-09,Jaipur,Male,37,Books,Python Basics,2,1480,20,2368.0,UPI,Delivered,2025-01
+ORD0487,2025-10-11,Jaipur,Male,24,Books,Data Science Guide,3,230,10,621.0,UPI,Cancelled,2025-10
+ORD0488,2025-04-30,Hyderabad,Female,23,Clothing,Jeans,1,3160,5,3002.0,Net Banking,Cancelled,2025-04
+ORD0489,2025-03-30,Ahmedabad,Male,37,Home & Kitchen,Cookware Set,2,5200,15,8840.0,UPI,Returned,2025-03
+ORD0490,2025-08-02,Delhi,Male,18,Clothing,T-Shirt,4,1440,15,4896.0,Cash on Delivery,Delivered,2025-08
+ORD0491,2025-09-15,Bengaluru,Male,21,Clothing,T-Shirt,1,2150,10,1935.0,Cash on Delivery,Cancelled,2025-09
+ORD0492,2025-07-21,Mumbai,Male,39,Sports,Running Shoes,1,1640,10,1476.0,UPI,Cancelled,2025-07
+ORD0493,2025-09-14,Pune,Male,26,Home & Kitchen,Coffee Maker,1,2210,15,1878.5,Cash on Delivery,Returned,2025-09
+ORD0494,2025-09-26,Bengaluru,Male,22,Electronics,Power Bank,2,4090,20,6544.0,Debit Card,Cancelled,2025-09
+ORD0495,2025-07-07,Chennai,Male,38,Clothing,Dress,1,2480,15,2108.0,Debit Card,Returned,2025-07
+ORD0496,2025-11-16,Mumbai,Female,20,Beauty,Perfume,1,1040,15,884.0,Credit Card,Delivered,2025-11
+ORD0497,2025-01-28,Bengaluru,Male,36,Beauty,Moisturizer,2,2170,0,4340.0,UPI,Delivered,2025-01
+ORD0498,2025-04-18,Jaipur,Male,31,Beauty,Face Wash,1,1310,10,1179.0,Net Banking,Returned,2025-04
+ORD0499,2025-12-22,Kolkata,Female,55,Sports,Running Shoes,1,4490,5,4265.5,Net Banking,Delivered,2025-12
+ORD0500,2025-05-19,Kolkata,Female,18,Clothing,T-Shirt,1,2850,20,2280.0,UPI,Cancelled,2025-05
+ORD0501,2025-01-10,Hyderabad,Female,32,Beauty,Hair Dryer,3,1740,0,5220.0,Cash on Delivery,Returned,2025-01
+ORD0502,2025-09-30,Delhi,Male,30,Books,Python Basics,3,830,20,1992.0,Net Banking,Cancelled,2025-09
+ORD0503,2025-06-06,Chennai,Female,43,Home & Kitchen,Water Bottle,1,2110,20,1688.0,Credit Card,Delivered,2025-06
+ORD0504,2025-05-22,Kolkata,Female,42,Clothing,Jacket,1,1340,20,1072.0,UPI,Returned,2025-05
+ORD0505,2025-02-14,Pune,Male,44,Books,Data Science Guide,1,1370,5,1301.5,Credit Card,Returned,2025-02
+ORD0506,2025-03-09,Bengaluru,Male,55,Electronics,Bluetooth Speaker,3,6400,20,15360.0,Net Banking,Delivered,2025-03
+ORD0507,2025-08-09,Mumbai,Male,38,Sports,Cricket Bat,2,5430,5,10317.0,UPI,Returned,2025-08
+ORD0508,2025-01-16,Chennai,Female,44,Home & Kitchen,Water Bottle,1,2560,5,2432.0,Debit Card,Cancelled,2025-01
+ORD0509,2025-02-24,Mumbai,Male,19,Sports,Skipping Rope,4,1930,5,7334.0,Net Banking,Returned,2025-02
+ORD0510,2025-12-18,Kolkata,Female,23,Clothing,Dress,2,2250,5,4275.0,Cash on Delivery,Delivered,2025-12
+ORD0511,2025-07-18,Ahmedabad,Female,26,Home & Kitchen,Storage Box,1,4720,5,4484.0,Credit Card,Delivered,2025-07
+ORD0512,2025-07-31,Bengaluru,Male,31,Electronics,Power Bank,2,960,10,1728.0,UPI,Delivered,2025-07
+ORD0513,2025-08-23,Bengaluru,Female,43,Books,Business Book,3,840,10,2268.0,UPI,Returned,2025-08
+ORD0514,2025-11-01,Jaipur,Male,51,Beauty,Lipstick,2,1140,20,1824.0,UPI,Cancelled,2025-11
+ORD0515,2025-07-22,Kolkata,Female,51,Home & Kitchen,Coffee Maker,3,2100,20,5040.0,UPI,Delivered,2025-07
+ORD0516,2025-08-25,Mumbai,Female,36,Clothing,Sneakers,3,2800,10,7560.0,Net Banking,Delivered,2025-08
+ORD0517,2025-09-14,Delhi,Male,55,Beauty,Moisturizer,1,1700,0,1700.0,Net Banking,Delivered,2025-09
+ORD0518,2025-12-31,Bengaluru,Female,23,Clothing,Jacket,1,950,20,760.0,Debit Card,Delivered,2025-12
+ORD0519,2025-02-16,Delhi,Female,41,Beauty,Hair Dryer,2,1870,0,3740.0,UPI,Returned,2025-02
+ORD0520,2025-07-13,Jaipur,Female,20,Beauty,Hair Dryer,2,1400,5,2660.0,Credit Card,Delivered,2025-07
+ORD0521,2025-04-02,Kolkata,Female,37,Home & Kitchen,Water Bottle,3,1550,5,4417.5,Debit Card,Cancelled,2025-04
+ORD0522,2025-01-02,Lucknow,Female,18,Clothing,Jeans,1,810,5,769.5,Cash on Delivery,Cancelled,2025-01
+ORD0523,2025-05-02,Bengaluru,Female,47,Sports,Running Shoes,3,3800,15,9690.0,Cash on Delivery,Cancelled,2025-05
+ORD0524,2025-11-14,Jaipur,Male,21,Electronics,Keyboard,1,15960,10,14364.0,Credit Card,Delivered,2025-11
+ORD0525,2025-11-05,Hyderabad,Female,23,Electronics,Bluetooth Speaker,1,15470,20,12376.0,UPI,Delivered,2025-11
+ORD0526,2025-10-21,Jaipur,Male,47,Clothing,Jeans,1,1280,20,1024.0,Net Banking,Delivered,2025-10
+ORD0527,2025-02-04,Pune,Male,36,Books,Python Basics,2,620,15,1054.0,Cash on Delivery,Delivered,2025-02
+ORD0528,2025-12-23,Bengaluru,Male,24,Electronics,Bluetooth Speaker,1,7860,5,7467.0,Net Banking,Returned,2025-12
+ORD0529,2025-08-07,Lucknow,Female,34,Books,Business Book,2,990,10,1782.0,Net Banking,Returned,2025-08
+ORD0530,2025-09-24,Ahmedabad,Female,29,Books,Fiction Novel,4,1000,15,3400.0,Net Banking,Delivered,2025-09
+ORD0531,2025-04-17,Lucknow,Female,44,Beauty,Moisturizer,1,300,0,300.0,UPI,Delivered,2025-04
+ORD0532,2025-05-11,Delhi,Female,37,Clothing,Hoodie,1,2390,10,2151.0,Net Banking,Returned,2025-05
+ORD0533,2025-10-19,Lucknow,Male,29,Clothing,T-Shirt,1,1430,15,1215.5,Credit Card,Delivered,2025-10
+ORD0534,2025-11-27,Mumbai,Female,27,Sports,Skipping Rope,1,3060,0,3060.0,Cash on Delivery,Returned,2025-11
+ORD0535,2025-09-24,Hyderabad,Female,53,Books,Business Book,2,740,0,1480.0,Net Banking,Delivered,2025-09
+ORD0536,2025-02-03,Mumbai,Female,19,Electronics,Mouse,1,16550,10,14895.0,Debit Card,Cancelled,2025-02
+ORD0537,2025-03-01,Hyderabad,Female,20,Beauty,Moisturizer,2,1130,20,1808.0,Debit Card,Cancelled,2025-03
+ORD0538,2025-04-21,Jaipur,Female,29,Electronics,Smart Watch,1,15050,10,13545.0,UPI,Delivered,2025-04
+ORD0539,2025-09-05,Jaipur,Male,30,Sports,Football,3,2890,0,8670.0,Debit Card,Cancelled,2025-09
+ORD0540,2025-09-22,Mumbai,Male,20,Beauty,Sunscreen,1,990,0,990.0,Cash on Delivery,Cancelled,2025-09
+ORD0541,2025-12-18,Lucknow,Male,39,Beauty,Sunscreen,1,950,0,950.0,Cash on Delivery,Delivered,2025-12
+ORD0542,2025-11-24,Bengaluru,Female,30,Electronics,Mouse,2,1090,10,1962.0,Credit Card,Delivered,2025-11
+ORD0543,2025-03-18,Mumbai,Female,25,Clothing,Jacket,2,2480,10,4464.0,UPI,Returned,2025-03
+ORD0544,2025-05-19,Mumbai,Female,54,Home & Kitchen,Coffee Maker,1,2780,10,2502.0,Credit Card,Delivered,2025-05
+ORD0545,2025-03-08,Kolkata,Female,21,Electronics,Keyboard,3,10050,0,30150.0,UPI,Cancelled,2025-03
+ORD0546,2025-11-19,Ahmedabad,Female,37,Electronics,Power Bank,1,12890,20,10312.0,Debit Card,Delivered,2025-11
+ORD0547,2025-10-18,Mumbai,Male,47,Beauty,Hair Dryer,3,430,15,1096.5,UPI,Cancelled,2025-10
+ORD0548,2025-04-25,Mumbai,Female,41,Clothing,Hoodie,2,1840,5,3496.0,Cash on Delivery,Delivered,2025-04
+ORD0549,2025-08-21,Ahmedabad,Male,22,Beauty,Hair Dryer,1,2190,10,1971.0,Cash on Delivery,Delivered,2025-08
+ORD0550,2025-11-06,Lucknow,Male,50,Clothing,Sneakers,3,1270,10,3429.0,UPI,Cancelled,2025-11
+ORD0551,2025-09-30,Ahmedabad,Female,55,Sports,Yoga Mat,1,4040,10,3636.0,Cash on Delivery,Delivered,2025-09
+ORD0552,2025-06-24,Bengaluru,Female,45,Beauty,Sunscreen,1,1340,0,1340.0,Net Banking,Delivered,2025-06
+ORD0553,2025-09-07,Delhi,Female,38,Home & Kitchen,Cookware Set,1,4850,20,3880.0,Net Banking,Delivered,2025-09
+ORD0554,2025-02-25,Lucknow,Female,38,Sports,Football,1,2670,20,2136.0,Cash on Delivery,Delivered,2025-02
+ORD0555,2025-03-17,Mumbai,Female,52,Electronics,Smart Watch,3,16330,0,48990.0,Debit Card,Cancelled,2025-03
+ORD0556,2025-06-03,Lucknow,Female,45,Home & Kitchen,Bedsheet,1,4930,10,4437.0,Debit Card,Delivered,2025-06
+ORD0557,2025-05-31,Kolkata,Female,53,Home & Kitchen,Storage Box,5,3130,5,14867.5,UPI,Delivered,2025-05
+ORD0558,2025-05-01,Pune,Female,38,Beauty,Perfume,1,880,0,880.0,Cash on Delivery,Cancelled,2025-05
+ORD0559,2025-04-07,Jaipur,Female,41,Clothing,Dress,1,940,5,893.0,Cash on Delivery,Delivered,2025-04
+ORD0560,2025-03-15,Ahmedabad,Female,26,Clothing,Hoodie,1,440,0,440.0,UPI,Delivered,2025-03
+ORD0561,2025-08-06,Lucknow,Male,47,Beauty,Lipstick,3,2260,20,5424.0,Net Banking,Cancelled,2025-08
+ORD0562,2025-11-06,Kolkata,Female,33,Home & Kitchen,Bedsheet,1,1970,15,1674.5,Net Banking,Delivered,2025-11
+ORD0563,2025-10-18,Ahmedabad,Female,25,Clothing,Dress,2,500,0,1000.0,Net Banking,Cancelled,2025-10
+ORD0564,2025-08-27,Jaipur,Male,51,Books,Python Basics,1,1150,10,1035.0,Net Banking,Delivered,2025-08
+ORD0565,2025-12-17,Jaipur,Female,21,Clothing,Hoodie,2,3380,0,6760.0,Debit Card,Returned,2025-12
+ORD0566,2025-06-19,Pune,Female,36,Sports,Dumbbells,1,5470,20,4376.0,Debit Card,Delivered,2025-06
+ORD0567,2025-05-14,Kolkata,Female,55,Electronics,Keyboard,2,13280,20,21248.0,Credit Card,Returned,2025-05
+ORD0568,2025-09-06,Delhi,Male,50,Electronics,Bluetooth Speaker,3,11500,10,31050.0,UPI,Delivered,2025-09
+ORD0569,2025-02-27,Lucknow,Male,55,Clothing,Dress,1,3060,0,3060.0,Credit Card,Cancelled,2025-02
+ORD0570,2025-04-03,Jaipur,Male,39,Clothing,Jeans,1,2570,15,2184.5,UPI,Delivered,2025-04
+ORD0571,2025-07-16,Bengaluru,Female,28,Home & Kitchen,Cookware Set,3,5390,15,13744.5,Credit Card,Returned,2025-07
+ORD0572,2025-01-27,Mumbai,Female,43,Beauty,Perfume,1,840,0,840.0,Cash on Delivery,Delivered,2025-01
+ORD0573,2025-08-31,Hyderabad,Male,51,Home & Kitchen,Storage Box,1,4940,15,4199.0,Cash on Delivery,Delivered,2025-08
+ORD0574,2025-12-16,Kolkata,Male,52,Clothing,Sneakers,1,1380,20,1104.0,Debit Card,Cancelled,2025-12
+ORD0575,2025-02-20,Hyderabad,Female,47,Home & Kitchen,Water Bottle,3,2680,10,7236.0,Credit Card,Returned,2025-02
+ORD0576,2025-06-10,Jaipur,Male,18,Sports,Running Shoes,1,4270,5,4056.5,UPI,Delivered,2025-06
+ORD0577,2025-05-26,Hyderabad,Male,20,Clothing,Dress,1,1780,5,1691.0,UPI,Returned,2025-05
+ORD0578,2025-11-23,Delhi,Male,23,Electronics,Keyboard,2,15150,20,24240.0,Net Banking,Delivered,2025-11
+ORD0579,2025-12-23,Mumbai,Female,36,Clothing,Hoodie,2,3400,0,6800.0,Cash on Delivery,Delivered,2025-12
+ORD0580,2025-05-12,Mumbai,Male,35,Beauty,Perfume,2,1810,10,3258.0,UPI,Cancelled,2025-05
+ORD0581,2025-08-14,Delhi,Female,30,Clothing,T-Shirt,1,2920,5,2774.0,Net Banking,Cancelled,2025-08
+ORD0582,2025-04-22,Lucknow,Male,46,Electronics,Power Bank,1,10050,15,8542.5,Debit Card,Delivered,2025-04
+ORD0583,2025-01-10,Ahmedabad,Male,18,Electronics,Wireless Headphones,2,5040,15,8568.0,UPI,Cancelled,2025-01
+ORD0584,2025-09-21,Ahmedabad,Female,45,Clothing,Hoodie,1,1610,0,1610.0,Cash on Delivery,Delivered,2025-09
+ORD0585,2025-03-04,Lucknow,Female,39,Home & Kitchen,Coffee Maker,1,4980,15,4233.0,Debit Card,Cancelled,2025-03
+ORD0586,2025-02-11,Ahmedabad,Female,30,Electronics,Mouse,1,9950,10,8955.0,Credit Card,Returned,2025-02
+ORD0587,2025-02-24,Chennai,Female,23,Electronics,Power Bank,2,5870,15,9979.0,Cash on Delivery,Delivered,2025-02
+ORD0588,2025-09-08,Pune,Male,52,Electronics,Smart Watch,1,17940,5,17043.0,Debit Card,Cancelled,2025-09
+ORD0589,2025-01-29,Chennai,Male,43,Home & Kitchen,Bedsheet,4,610,10,2196.0,UPI,Delivered,2025-01
+ORD0590,2025-03-18,Lucknow,Male,22,Sports,Skipping Rope,1,5660,20,4528.0,UPI,Delivered,2025-03
+ORD0591,2025-05-05,Mumbai,Male,29,Home & Kitchen,Coffee Maker,1,6470,0,6470.0,UPI,Delivered,2025-05
+ORD0592,2025-02-02,Delhi,Male,49,Sports,Yoga Mat,1,1360,20,1088.0,Net Banking,Returned,2025-02
+ORD0593,2025-06-16,Delhi,Male,38,Electronics,Smart Watch,1,14740,15,12529.0,Credit Card,Delivered,2025-06
+ORD0594,2025-03-28,Chennai,Male,46,Home & Kitchen,Mixer Grinder,1,2280,15,1938.0,Credit Card,Returned,2025-03
+ORD0595,2025-03-22,Kolkata,Female,23,Electronics,Wireless Headphones,2,11640,15,19788.0,UPI,Delivered,2025-03
+ORD0596,2025-08-02,Ahmedabad,Male,31,Electronics,Wireless Headphones,2,10970,10,19746.0,Credit Card,Delivered,2025-08
+ORD0597,2025-11-02,Mumbai,Female,23,Home & Kitchen,Bedsheet,1,1630,0,1630.0,Debit Card,Delivered,2025-11
+ORD0598,2025-02-18,Lucknow,Female,52,Clothing,Dress,1,760,20,608.0,Net Banking,Delivered,2025-02
+ORD0599,2025-02-27,Mumbai,Female,49,Home & Kitchen,Water Bottle,2,2300,5,4370.0,Credit Card,Delivered,2025-02
+ORD0600,2025-08-11,Hyderabad,Female,47,Beauty,Face Wash,1,1070,5,1016.5,UPI,Delivered,2025-08
+ORD0601,2025-09-21,Delhi,Male,33,Sports,Running Shoes,1,4800,15,4080.0,Cash on Delivery,Returned,2025-09
+ORD0602,2025-04-28,Delhi,Female,32,Home & Kitchen,Bedsheet,1,4900,10,4410.0,UPI,Delivered,2025-04
+ORD0603,2025-10-27,Ahmedabad,Male,45,Beauty,Moisturizer,1,750,15,637.5,Credit Card,Delivered,2025-10
+ORD0604,2025-04-10,Chennai,Female,30,Books,Business Book,1,690,15,586.5,Debit Card,Delivered,2025-04
+ORD0605,2025-08-23,Pune,Male,39,Electronics,Keyboard,1,3060,15,2601.0,Credit Card,Delivered,2025-08
+ORD0606,2025-10-11,Bengaluru,Male,44,Home & Kitchen,Water Bottle,4,6390,20,20448.0,Net Banking,Cancelled,2025-10
+ORD0607,2025-01-08,Pune,Male,33,Sports,Football,2,5090,10,9162.0,Debit Card,Cancelled,2025-01
+ORD0608,2025-08-02,Kolkata,Male,48,Home & Kitchen,Storage Box,4,6440,0,25760.0,Net Banking,Delivered,2025-08
+ORD0609,2025-08-20,Ahmedabad,Male,23,Clothing,Sneakers,1,2870,0,2870.0,Net Banking,Delivered,2025-08
+ORD0610,2025-05-03,Delhi,Male,48,Beauty,Lipstick,4,550,10,1980.0,Debit Card,Delivered,2025-05
+ORD0611,2025-08-26,Mumbai,Female,29,Beauty,Sunscreen,2,300,15,510.0,Debit Card,Cancelled,2025-08
+ORD0612,2025-09-29,Kolkata,Female,45,Beauty,Face Wash,3,410,10,1107.0,Debit Card,Returned,2025-09
+ORD0613,2025-01-29,Jaipur,Female,21,Home & Kitchen,Cookware Set,2,1030,10,1854.0,UPI,Cancelled,2025-01
+ORD0614,2025-12-27,Delhi,Male,26,Clothing,Dress,1,1540,20,1232.0,Debit Card,Delivered,2025-12
+ORD0615,2025-12-26,Bengaluru,Male,38,Home & Kitchen,Water Bottle,1,6600,20,5280.0,Debit Card,Delivered,2025-12
+ORD0616,2025-08-20,Ahmedabad,Male,48,Home & Kitchen,Bedsheet,1,910,10,819.0,Net Banking,Returned,2025-08
+ORD0617,2025-04-07,Ahmedabad,Male,23,Books,Business Book,2,1240,0,2480.0,Cash on Delivery,Delivered,2025-04
+ORD0618,2025-09-12,Mumbai,Male,51,Clothing,T-Shirt,1,1260,5,1197.0,UPI,Delivered,2025-09
+ORD0619,2025-08-04,Ahmedabad,Male,36,Clothing,Hoodie,1,810,10,729.0,Credit Card,Delivered,2025-08
+ORD0620,2025-07-30,Lucknow,Female,38,Electronics,Smart Watch,3,9690,10,26163.0,Cash on Delivery,Returned,2025-07
+ORD0621,2025-10-18,Mumbai,Female,28,Beauty,Sunscreen,3,1250,10,3375.0,Debit Card,Delivered,2025-10
+ORD0622,2025-05-26,Ahmedabad,Male,28,Home & Kitchen,Mixer Grinder,2,810,10,1458.0,Net Banking,Delivered,2025-05
+ORD0623,2025-03-24,Bengaluru,Male,20,Electronics,Smart Watch,3,12690,5,36166.5,Debit Card,Returned,2025-03
+ORD0624,2025-12-07,Chennai,Female,27,Electronics,Bluetooth Speaker,1,4250,0,4250.0,Debit Card,Cancelled,2025-12
+ORD0625,2025-07-27,Ahmedabad,Male,47,Home & Kitchen,Cookware Set,1,1290,0,1290.0,Debit Card,Delivered,2025-07
+ORD0626,2025-08-31,Hyderabad,Male,54,Electronics,Mouse,1,9480,10,8532.0,Cash on Delivery,Delivered,2025-08
+ORD0627,2025-03-01,Hyderabad,Male,43,Beauty,Hair Dryer,1,340,20,272.0,Net Banking,Delivered,2025-03
+ORD0628,2025-10-26,Jaipur,Male,35,Home & Kitchen,Coffee Maker,1,4450,5,4227.5,Credit Card,Delivered,2025-10
+ORD0629,2025-07-21,Bengaluru,Female,38,Electronics,Power Bank,2,17270,20,27632.0,Net Banking,Returned,2025-07
+ORD0630,2025-08-07,Chennai,Female,41,Home & Kitchen,Coffee Maker,3,2850,5,8122.5,UPI,Delivered,2025-08
+ORD0631,2025-04-21,Ahmedabad,Female,46,Clothing,Jacket,4,3110,0,12440.0,Debit Card,Delivered,2025-04
+ORD0632,2025-11-03,Delhi,Male,31,Sports,Dumbbells,2,2720,20,4352.0,Debit Card,Cancelled,2025-11
+ORD0633,2025-07-12,Delhi,Male,44,Books,Self Help Book,5,290,20,1160.0,Debit Card,Cancelled,2025-07
+ORD0634,2025-04-13,Mumbai,Female,36,Electronics,Power Bank,2,13770,5,26163.0,Net Banking,Cancelled,2025-04
+ORD0635,2025-08-26,Bengaluru,Male,18,Electronics,Bluetooth Speaker,3,5960,20,14304.0,Credit Card,Delivered,2025-08
+ORD0636,2025-08-02,Mumbai,Female,33,Clothing,Hoodie,3,1860,10,5022.0,UPI,Delivered,2025-08
+ORD0637,2025-10-25,Ahmedabad,Female,34,Sports,Dumbbells,5,770,10,3465.0,Cash on Delivery,Delivered,2025-10
+ORD0638,2025-10-25,Kolkata,Male,38,Clothing,Hoodie,2,3020,5,5738.0,Cash on Delivery,Delivered,2025-10
+ORD0639,2025-01-25,Hyderabad,Female,51,Clothing,T-Shirt,1,1700,10,1530.0,UPI,Returned,2025-01
+ORD0640,2025-10-06,Chennai,Female,37,Electronics,Mouse,1,2330,5,2213.5,Debit Card,Delivered,2025-10
+ORD0641,2025-09-23,Hyderabad,Female,49,Electronics,Keyboard,1,3190,5,3030.5,Cash on Delivery,Delivered,2025-09
+ORD0642,2025-04-07,Jaipur,Male,44,Books,Data Science Guide,1,400,5,380.0,Cash on Delivery,Delivered,2025-04
+ORD0643,2025-12-20,Chennai,Male,46,Electronics,Smart Watch,4,9000,10,32400.0,Net Banking,Returned,2025-12
+ORD0644,2025-04-24,Mumbai,Male,32,Sports,Cricket Bat,1,2110,0,2110.0,Debit Card,Delivered,2025-04
+ORD0645,2025-02-09,Kolkata,Female,45,Electronics,Wireless Headphones,1,13900,0,13900.0,UPI,Delivered,2025-02
+ORD0646,2025-05-10,Kolkata,Male,37,Electronics,Mouse,1,1730,0,1730.0,UPI,Delivered,2025-05
+ORD0647,2025-12-10,Chennai,Male,23,Sports,Running Shoes,1,5450,5,5177.5,Credit Card,Delivered,2025-12
+ORD0648,2025-05-04,Jaipur,Male,24,Books,Fiction Novel,1,1310,20,1048.0,Net Banking,Delivered,2025-05
+ORD0649,2025-01-03,Delhi,Male,50,Home & Kitchen,Water Bottle,1,2330,20,1864.0,Cash on Delivery,Delivered,2025-01
+ORD0650,2025-07-01,Pune,Female,31,Beauty,Moisturizer,1,2400,5,2280.0,Net Banking,Delivered,2025-07
+ORD0651,2025-09-11,Chennai,Female,53,Clothing,Jacket,1,740,5,703.0,UPI,Delivered,2025-09
+ORD0652,2025-12-18,Ahmedabad,Male,53,Clothing,T-Shirt,1,1820,10,1638.0,Cash on Delivery,Delivered,2025-12
+ORD0653,2025-12-14,Chennai,Male,18,Books,Business Book,1,290,15,246.5,Cash on Delivery,Delivered,2025-12
+ORD0654,2025-07-22,Pune,Male,28,Clothing,Dress,2,660,5,1254.0,UPI,Delivered,2025-07
+ORD0655,2025-03-04,Bengaluru,Female,49,Books,Fiction Novel,1,1300,15,1105.0,Debit Card,Returned,2025-03
+ORD0656,2025-07-27,Ahmedabad,Female,27,Home & Kitchen,Water Bottle,4,2810,20,8992.0,Cash on Delivery,Delivered,2025-07
+ORD0657,2025-01-16,Delhi,Male,22,Electronics,Power Bank,1,11570,5,10991.5,Cash on Delivery,Delivered,2025-01
+ORD0658,2025-11-15,Lucknow,Male,22,Books,Business Book,2,630,10,1134.0,Net Banking,Cancelled,2025-11
+ORD0659,2025-05-14,Jaipur,Female,52,Sports,Football,1,3190,20,2552.0,Net Banking,Delivered,2025-05
+ORD0660,2025-07-16,Ahmedabad,Female,42,Books,Python Basics,5,1340,0,6700.0,Cash on Delivery,Cancelled,2025-07
+ORD0661,2025-12-28,Mumbai,Female,45,Electronics,Smart Watch,2,15580,10,28044.0,Credit Card,Delivered,2025-12
+ORD0662,2025-12-04,Jaipur,Female,48,Beauty,Lipstick,2,1530,15,2601.0,Net Banking,Delivered,2025-12
+ORD0663,2025-11-12,Chennai,Female,38,Home & Kitchen,Bedsheet,1,4340,15,3689.0,UPI,Delivered,2025-11
+ORD0664,2025-01-14,Chennai,Female,24,Home & Kitchen,Cookware Set,3,2770,20,6648.0,Cash on Delivery,Delivered,2025-01
+ORD0665,2025-05-01,Hyderabad,Male,22,Books,Business Book,1,1060,5,1007.0,Debit Card,Delivered,2025-05
+ORD0666,2025-10-18,Jaipur,Female,35,Clothing,T-Shirt,1,520,15,442.0,UPI,Cancelled,2025-10
+ORD0667,2025-02-20,Ahmedabad,Male,31,Home & Kitchen,Mixer Grinder,1,3040,20,2432.0,Debit Card,Cancelled,2025-02
+ORD0668,2025-08-12,Bengaluru,Female,22,Home & Kitchen,Water Bottle,1,4500,10,4050.0,Net Banking,Delivered,2025-08
+ORD0669,2025-11-16,Delhi,Male,55,Clothing,T-Shirt,1,2180,5,2071.0,Debit Card,Delivered,2025-11
+ORD0670,2025-11-30,Hyderabad,Female,45,Electronics,Keyboard,1,4330,0,4330.0,Net Banking,Delivered,2025-11
+ORD0671,2025-04-03,Kolkata,Male,54,Electronics,Power Bank,1,9620,20,7696.0,Cash on Delivery,Delivered,2025-04
+ORD0672,2025-11-11,Pune,Male,51,Beauty,Hair Dryer,4,850,20,2720.0,Credit Card,Delivered,2025-11
+ORD0673,2025-08-11,Pune,Female,22,Home & Kitchen,Cookware Set,1,4950,10,4455.0,Credit Card,Cancelled,2025-08
+ORD0674,2025-05-01,Pune,Male,25,Clothing,Jacket,2,1190,20,1904.0,Credit Card,Delivered,2025-05
+ORD0675,2025-08-05,Kolkata,Male,28,Electronics,Bluetooth Speaker,1,10380,15,8823.0,Debit Card,Delivered,2025-08
+ORD0676,2025-09-06,Kolkata,Male,23,Electronics,Bluetooth Speaker,2,3740,0,7480.0,Debit Card,Returned,2025-09
+ORD0677,2025-12-10,Delhi,Female,26,Clothing,T-Shirt,3,1660,10,4482.0,Credit Card,Delivered,2025-12
+ORD0678,2025-09-26,Hyderabad,Female,23,Home & Kitchen,Storage Box,4,3890,20,12448.0,Credit Card,Returned,2025-09
+ORD0679,2025-05-01,Pune,Male,27,Electronics,Bluetooth Speaker,1,10810,15,9188.5,UPI,Delivered,2025-05
+ORD0680,2025-01-29,Ahmedabad,Female,25,Electronics,Bluetooth Speaker,1,5100,20,4080.0,Debit Card,Returned,2025-01
+ORD0681,2025-07-05,Ahmedabad,Female,37,Clothing,Hoodie,1,1260,5,1197.0,UPI,Returned,2025-07
+ORD0682,2025-05-10,Jaipur,Female,37,Electronics,Mouse,2,16980,5,32262.0,Debit Card,Delivered,2025-05
+ORD0683,2025-05-11,Hyderabad,Male,33,Home & Kitchen,Cookware Set,3,3030,15,7726.5,Debit Card,Delivered,2025-05
+ORD0684,2025-01-18,Hyderabad,Male,49,Sports,Football,3,3940,15,10047.0,Cash on Delivery,Cancelled,2025-01
+ORD0685,2025-03-24,Hyderabad,Male,40,Books,Fiction Novel,2,1340,0,2680.0,Cash on Delivery,Returned,2025-03
+ORD0686,2025-01-27,Mumbai,Female,26,Beauty,Sunscreen,2,1270,0,2540.0,UPI,Cancelled,2025-01
+ORD0687,2025-05-08,Jaipur,Male,44,Electronics,Bluetooth Speaker,1,2120,5,2014.0,Debit Card,Cancelled,2025-05
+ORD0688,2025-06-17,Hyderabad,Male,23,Home & Kitchen,Water Bottle,1,1630,20,1304.0,Cash on Delivery,Delivered,2025-06
+ORD0689,2025-01-11,Kolkata,Male,23,Electronics,Power Bank,4,16000,5,60800.0,Cash on Delivery,Delivered,2025-01
+ORD0690,2025-05-14,Mumbai,Male,41,Clothing,Jeans,1,2320,20,1856.0,Credit Card,Returned,2025-05
+ORD0691,2025-12-11,Ahmedabad,Male,32,Electronics,Mouse,1,14080,15,11968.0,Credit Card,Delivered,2025-12
+ORD0692,2025-08-09,Bengaluru,Male,36,Books,Fiction Novel,1,840,5,798.0,Credit Card,Cancelled,2025-08
+ORD0693,2025-11-13,Ahmedabad,Male,41,Electronics,Smart Watch,1,17590,5,16710.5,Net Banking,Cancelled,2025-11
+ORD0694,2025-12-18,Bengaluru,Female,45,Electronics,Power Bank,1,6290,15,5346.5,Net Banking,Delivered,2025-12
+ORD0695,2025-08-30,Chennai,Male,18,Electronics,Keyboard,1,6460,5,6137.0,Debit Card,Returned,2025-08
+ORD0696,2025-10-14,Kolkata,Male,34,Home & Kitchen,Mixer Grinder,4,4860,5,18468.0,Credit Card,Returned,2025-10
+ORD0697,2025-12-30,Jaipur,Female,27,Home & Kitchen,Mixer Grinder,3,1360,10,3672.0,Debit Card,Delivered,2025-12
+ORD0698,2025-07-04,Pune,Female,34,Clothing,Jeans,1,3420,10,3078.0,Net Banking,Delivered,2025-07
+ORD0699,2025-03-19,Jaipur,Female,21,Home & Kitchen,Bedsheet,3,2550,15,6502.5,Credit Card,Delivered,2025-03
+ORD0700,2025-08-12,Delhi,Female,20,Electronics,Smart Watch,1,5200,15,4420.0,Cash on Delivery,Delivered,2025-08
+ORD0701,2025-03-05,Chennai,Male,31,Books,Self Help Book,1,840,5,798.0,Debit Card,Delivered,2025-03
+ORD0702,2025-04-19,Lucknow,Male,51,Sports,Skipping Rope,1,1930,20,1544.0,Net Banking,Delivered,2025-04
+ORD0703,2025-06-18,Kolkata,Female,25,Clothing,T-Shirt,1,1940,0,1940.0,Cash on Delivery,Delivered,2025-06
+ORD0704,2025-08-24,Ahmedabad,Female,35,Home & Kitchen,Coffee Maker,3,1500,0,4500.0,Net Banking,Delivered,2025-08
+ORD0705,2025-10-19,Mumbai,Male,21,Clothing,T-Shirt,2,3350,10,6030.0,Debit Card,Delivered,2025-10
+ORD0706,2025-02-17,Pune,Female,29,Sports,Skipping Rope,1,5730,15,4870.5,Credit Card,Cancelled,2025-02
+ORD0707,2025-11-28,Mumbai,Male,37,Electronics,Smart Watch,1,14190,10,12771.0,Cash on Delivery,Cancelled,2025-11
+ORD0708,2025-12-07,Delhi,Female,50,Beauty,Perfume,3,1610,10,4347.0,Credit Card,Cancelled,2025-12
+ORD0709,2025-02-16,Pune,Female,29,Home & Kitchen,Bedsheet,1,4160,15,3536.0,Cash on Delivery,Cancelled,2025-02
+ORD0710,2025-11-28,Mumbai,Female,51,Electronics,Keyboard,1,8720,5,8284.0,Net Banking,Delivered,2025-11
+ORD0711,2025-03-18,Mumbai,Female,33,Clothing,Sneakers,1,2880,10,2592.0,Net Banking,Cancelled,2025-03
+ORD0712,2025-02-25,Jaipur,Female,44,Clothing,T-Shirt,2,3240,20,5184.0,UPI,Cancelled,2025-02
+ORD0713,2025-02-11,Jaipur,Male,25,Beauty,Sunscreen,3,1050,20,2520.0,Cash on Delivery,Delivered,2025-02
+ORD0714,2025-06-10,Lucknow,Female,46,Sports,Dumbbells,1,2730,10,2457.0,Net Banking,Delivered,2025-06
+ORD0715,2025-05-13,Delhi,Female,52,Clothing,Jeans,1,640,20,512.0,UPI,Delivered,2025-05
+ORD0716,2025-12-03,Lucknow,Female,37,Clothing,T-Shirt,1,1880,15,1598.0,Net Banking,Returned,2025-12
+ORD0717,2025-02-14,Mumbai,Male,18,Clothing,Hoodie,4,2490,10,8964.0,Credit Card,Delivered,2025-02
+ORD0718,2025-09-04,Mumbai,Male,45,Sports,Skipping Rope,4,5210,5,19798.0,Net Banking,Delivered,2025-09
+ORD0719,2025-03-27,Mumbai,Female,49,Electronics,Power Bank,1,8000,0,8000.0,Cash on Delivery,Delivered,2025-03
+ORD0720,2025-01-27,Chennai,Male,24,Sports,Running Shoes,1,2050,15,1742.5,Cash on Delivery,Cancelled,2025-01
+ORD0721,2025-01-19,Ahmedabad,Female,49,Sports,Skipping Rope,2,4490,10,8082.0,Net Banking,Returned,2025-01
+ORD0722,2025-02-01,Jaipur,Male,45,Beauty,Hair Dryer,3,2200,5,6270.0,Net Banking,Delivered,2025-02
+ORD0723,2025-03-01,Ahmedabad,Female,46,Home & Kitchen,Mixer Grinder,3,3210,15,8185.5,Cash on Delivery,Delivered,2025-03
+ORD0724,2025-09-17,Bengaluru,Female,47,Electronics,Mouse,1,6650,5,6317.5,Credit Card,Delivered,2025-09
+ORD0725,2025-08-30,Mumbai,Male,36,Beauty,Lipstick,4,2120,10,7632.0,UPI,Cancelled,2025-08
+ORD0726,2025-09-10,Hyderabad,Male,31,Electronics,Smart Watch,1,9210,15,7828.5,Net Banking,Delivered,2025-09
+ORD0727,2025-03-31,Jaipur,Male,22,Books,Fiction Novel,3,660,5,1881.0,Debit Card,Cancelled,2025-03
+ORD0728,2025-06-24,Chennai,Male,53,Electronics,Smart Watch,1,4580,10,4122.0,Debit Card,Delivered,2025-06
+ORD0729,2025-08-13,Ahmedabad,Male,24,Sports,Running Shoes,2,980,0,1960.0,Net Banking,Returned,2025-08
+ORD0730,2025-03-27,Delhi,Male,41,Sports,Yoga Mat,3,640,0,1920.0,Credit Card,Delivered,2025-03
+ORD0731,2025-11-28,Chennai,Female,26,Beauty,Sunscreen,1,2210,5,2099.5,UPI,Delivered,2025-11
+ORD0732,2025-06-24,Hyderabad,Male,23,Clothing,Sneakers,2,420,15,714.0,Debit Card,Delivered,2025-06
+ORD0733,2025-09-29,Pune,Male,26,Beauty,Lipstick,1,1750,5,1662.5,Cash on Delivery,Cancelled,2025-09
+ORD0734,2025-01-16,Ahmedabad,Male,18,Books,Business Book,4,870,10,3132.0,Net Banking,Delivered,2025-01
+ORD0735,2025-02-01,Pune,Male,27,Electronics,Bluetooth Speaker,1,14060,15,11951.0,Net Banking,Delivered,2025-02
+ORD0736,2025-08-03,Pune,Female,38,Books,History Book,2,1340,10,2412.0,Debit Card,Delivered,2025-08
+ORD0737,2025-08-17,Bengaluru,Female,40,Sports,Running Shoes,2,1220,15,2074.0,Cash on Delivery,Delivered,2025-08
+ORD0738,2025-09-24,Jaipur,Female,31,Books,Python Basics,1,630,5,598.5,UPI,Returned,2025-09
+ORD0739,2025-01-15,Jaipur,Female,33,Home & Kitchen,Storage Box,1,4630,0,4630.0,Debit Card,Cancelled,2025-01
+ORD0740,2025-11-18,Jaipur,Female,25,Books,Python Basics,2,1290,10,2322.0,UPI,Delivered,2025-11
+ORD0741,2025-10-25,Lucknow,Male,40,Home & Kitchen,Storage Box,2,3450,5,6555.0,Debit Card,Delivered,2025-10
+ORD0742,2025-09-24,Bengaluru,Male,38,Beauty,Hair Dryer,2,560,15,952.0,Net Banking,Returned,2025-09
+ORD0743,2025-07-30,Delhi,Male,21,Electronics,Bluetooth Speaker,1,3240,15,2754.0,Cash on Delivery,Delivered,2025-07
+ORD0744,2025-10-29,Jaipur,Female,34,Home & Kitchen,Bedsheet,1,4900,15,4165.0,Net Banking,Cancelled,2025-10
+ORD0745,2025-03-25,Mumbai,Male,49,Beauty,Lipstick,2,2380,15,4046.0,Cash on Delivery,Delivered,2025-03
+ORD0746,2025-08-22,Ahmedabad,Male,28,Books,Self Help Book,3,350,5,997.5,Net Banking,Delivered,2025-08
+ORD0747,2025-07-09,Lucknow,Female,20,Books,Python Basics,2,730,0,1460.0,Net Banking,Delivered,2025-07
+ORD0748,2025-01-15,Mumbai,Male,55,Electronics,Bluetooth Speaker,5,5950,15,25287.5,Cash on Delivery,Delivered,2025-01
+ORD0749,2025-01-02,Delhi,Female,22,Books,Fiction Novel,3,480,15,1224.0,UPI,Cancelled,2025-01
+ORD0750,2025-09-01,Lucknow,Male,26,Home & Kitchen,Mixer Grinder,2,6350,15,10795.0,Net Banking,Cancelled,2025-09
+ORD0751,2025-02-15,Lucknow,Female,42,Sports,Skipping Rope,1,5250,10,4725.0,Credit Card,Cancelled,2025-02
+ORD0752,2025-11-27,Delhi,Male,19,Clothing,T-Shirt,4,3160,10,11376.0,Net Banking,Delivered,2025-11
+ORD0753,2025-10-05,Lucknow,Male,54,Home & Kitchen,Coffee Maker,2,1050,20,1680.0,Net Banking,Delivered,2025-10
+ORD0754,2025-04-03,Kolkata,Female,31,Sports,Running Shoes,3,1070,20,2568.0,Credit Card,Returned,2025-04
+ORD0755,2025-09-09,Kolkata,Female,45,Home & Kitchen,Storage Box,2,3110,0,6220.0,Credit Card,Cancelled,2025-09
+ORD0756,2025-02-20,Jaipur,Male,36,Electronics,Keyboard,1,5150,0,5150.0,Credit Card,Delivered,2025-02
+ORD0757,2025-01-31,Lucknow,Female,29,Clothing,T-Shirt,1,3350,5,3182.5,UPI,Delivered,2025-01
+ORD0758,2025-05-13,Pune,Male,21,Clothing,T-Shirt,1,1680,10,1512.0,Credit Card,Delivered,2025-05
+ORD0759,2025-07-17,Delhi,Female,21,Sports,Running Shoes,1,3250,20,2600.0,Debit Card,Cancelled,2025-07
+ORD0760,2025-01-10,Hyderabad,Male,33,Home & Kitchen,Coffee Maker,1,3150,5,2992.5,Net Banking,Delivered,2025-01
+ORD0761,2025-04-15,Mumbai,Female,52,Clothing,Sneakers,1,3020,20,2416.0,Credit Card,Delivered,2025-04
+ORD0762,2025-01-01,Ahmedabad,Female,28,Home & Kitchen,Bedsheet,4,4110,0,16440.0,UPI,Delivered,2025-01
+ORD0763,2025-06-29,Bengaluru,Female,20,Books,Business Book,1,530,15,450.5,Credit Card,Returned,2025-06
+ORD0764,2025-10-12,Hyderabad,Female,31,Home & Kitchen,Mixer Grinder,1,5040,5,4788.0,Net Banking,Returned,2025-10
+ORD0765,2025-12-29,Ahmedabad,Female,33,Books,Fiction Novel,3,1430,10,3861.0,Debit Card,Delivered,2025-12
+ORD0766,2025-11-27,Kolkata,Female,18,Electronics,Keyboard,1,16510,5,15684.5,UPI,Delivered,2025-11
+ORD0767,2025-02-11,Delhi,Male,46,Clothing,Hoodie,2,2760,20,4416.0,UPI,Delivered,2025-02
+ORD0768,2025-12-23,Kolkata,Male,47,Books,Business Book,3,670,5,1909.5,Debit Card,Delivered,2025-12
+ORD0769,2025-04-09,Delhi,Female,32,Home & Kitchen,Cookware Set,2,5430,10,9774.0,Credit Card,Cancelled,2025-04
+ORD0770,2025-04-18,Kolkata,Male,43,Books,Python Basics,1,1380,20,1104.0,UPI,Delivered,2025-04
+ORD0771,2025-12-11,Lucknow,Male,22,Home & Kitchen,Bedsheet,1,1760,20,1408.0,Net Banking,Delivered,2025-12
+ORD0772,2025-09-25,Hyderabad,Male,19,Sports,Football,1,3590,5,3410.5,Net Banking,Returned,2025-09
+ORD0773,2025-11-25,Kolkata,Female,45,Clothing,Dress,3,410,15,1045.5,Cash on Delivery,Delivered,2025-11
+ORD0774,2025-04-25,Kolkata,Female,44,Electronics,Keyboard,1,6950,0,6950.0,Net Banking,Cancelled,2025-04
+ORD0775,2025-01-13,Bengaluru,Female,22,Clothing,Sneakers,1,650,20,520.0,Credit Card,Delivered,2025-01
+ORD0776,2025-09-03,Pune,Male,55,Electronics,Bluetooth Speaker,1,11520,0,11520.0,Debit Card,Delivered,2025-09
+ORD0777,2025-06-20,Jaipur,Male,22,Clothing,Sneakers,1,1460,0,1460.0,Net Banking,Returned,2025-06
+ORD0778,2025-02-01,Kolkata,Female,38,Clothing,T-Shirt,2,2190,0,4380.0,UPI,Delivered,2025-02
+ORD0779,2025-02-03,Delhi,Male,53,Electronics,Power Bank,1,11270,15,9579.5,UPI,Delivered,2025-02
+ORD0780,2025-11-03,Lucknow,Male,47,Sports,Dumbbells,1,4610,5,4379.5,Cash on Delivery,Cancelled,2025-11
+ORD0781,2025-08-21,Jaipur,Female,55,Sports,Running Shoes,2,2300,0,4600.0,Credit Card,Delivered,2025-08
+ORD0782,2025-10-21,Mumbai,Female,40,Electronics,Keyboard,2,10960,5,20824.0,Cash on Delivery,Cancelled,2025-10
+ORD0783,2025-01-31,Mumbai,Female,55,Beauty,Lipstick,1,560,0,560.0,Cash on Delivery,Returned,2025-01
+ORD0784,2025-03-17,Ahmedabad,Female,39,Books,Fiction Novel,1,1350,5,1282.5,Debit Card,Delivered,2025-03
+ORD0785,2025-05-02,Jaipur,Male,45,Books,Self Help Book,2,1080,0,2160.0,Debit Card,Delivered,2025-05
+ORD0786,2025-04-07,Ahmedabad,Female,39,Books,History Book,3,1220,10,3294.0,Net Banking,Returned,2025-04
+ORD0787,2025-08-21,Kolkata,Female,32,Books,Self Help Book,1,630,0,630.0,UPI,Delivered,2025-08
+ORD0788,2025-07-12,Bengaluru,Female,29,Beauty,Lipstick,2,790,10,1422.0,UPI,Delivered,2025-07
+ORD0789,2025-08-14,Bengaluru,Female,20,Electronics,Bluetooth Speaker,1,2690,10,2421.0,UPI,Delivered,2025-08
+ORD0790,2025-06-23,Jaipur,Male,29,Electronics,Smart Watch,1,5230,5,4968.5,Credit Card,Delivered,2025-06
+ORD0791,2025-07-14,Delhi,Female,31,Electronics,Bluetooth Speaker,3,1060,5,3021.0,Debit Card,Cancelled,2025-07
+ORD0792,2025-08-11,Delhi,Male,27,Clothing,Jacket,2,3320,20,5312.0,Credit Card,Delivered,2025-08
+ORD0793,2025-11-22,Bengaluru,Male,55,Electronics,Power Bank,2,6200,15,10540.0,Credit Card,Returned,2025-11
+ORD0794,2025-03-06,Jaipur,Female,31,Clothing,Jeans,1,570,10,513.0,UPI,Cancelled,2025-03
+ORD0795,2025-07-11,Ahmedabad,Female,29,Sports,Running Shoes,1,3250,20,2600.0,Debit Card,Delivered,2025-07
+ORD0796,2025-10-25,Pune,Male,31,Home & Kitchen,Bedsheet,2,3720,10,6696.0,Credit Card,Delivered,2025-10
+ORD0797,2025-10-20,Mumbai,Female,34,Home & Kitchen,Cookware Set,1,2490,15,2116.5,Net Banking,Delivered,2025-10
+ORD0798,2025-10-26,Kolkata,Female,50,Electronics,Wireless Headphones,1,9680,5,9196.0,Net Banking,Delivered,2025-10
+ORD0799,2025-06-12,Hyderabad,Female,19,Clothing,Sneakers,1,1540,15,1309.0,Credit Card,Cancelled,2025-06
+ORD0800,2025-09-14,Jaipur,Male,35,Electronics,Mouse,1,16300,10,14670.0,Credit Card,Delivered,2025-09
+ORD0801,2025-12-12,Chennai,Female,37,Electronics,Bluetooth Speaker,1,4170,5,3961.5,Debit Card,Delivered,2025-12
+ORD0802,2025-05-14,Kolkata,Female,36,Beauty,Moisturizer,5,1940,20,7760.0,Debit Card,Cancelled,2025-05
+ORD0803,2025-03-18,Pune,Male,32,Books,Self Help Book,2,220,20,352.0,Credit Card,Cancelled,2025-03
+ORD0804,2025-06-24,Delhi,Female,30,Electronics,Keyboard,2,13810,15,23477.0,Cash on Delivery,Cancelled,2025-06
+ORD0805,2025-10-23,Mumbai,Female,18,Electronics,Power Bank,3,1220,5,3477.0,Cash on Delivery,Delivered,2025-10
+ORD0806,2025-06-03,Chennai,Male,54,Clothing,Sneakers,1,2730,20,2184.0,UPI,Delivered,2025-06
+ORD0807,2025-10-21,Pune,Female,31,Electronics,Bluetooth Speaker,2,14530,20,23248.0,Cash on Delivery,Delivered,2025-10
+ORD0808,2025-11-24,Hyderabad,Male,28,Home & Kitchen,Cookware Set,1,2640,15,2244.0,UPI,Returned,2025-11
+ORD0809,2025-02-05,Pune,Female,31,Electronics,Mouse,2,1160,5,2204.0,Credit Card,Delivered,2025-02
+ORD0810,2025-03-29,Chennai,Female,43,Beauty,Face Wash,1,1080,0,1080.0,Credit Card,Delivered,2025-03
+ORD0811,2025-03-08,Bengaluru,Female,45,Electronics,Power Bank,1,1890,5,1795.5,Cash on Delivery,Delivered,2025-03
+ORD0812,2025-05-22,Bengaluru,Male,27,Home & Kitchen,Mixer Grinder,2,3770,15,6409.0,Cash on Delivery,Delivered,2025-05
+ORD0813,2025-09-09,Ahmedabad,Female,54,Sports,Running Shoes,3,3340,20,8016.0,UPI,Delivered,2025-09
+ORD0814,2025-07-20,Lucknow,Male,44,Clothing,Sneakers,1,3010,10,2709.0,Credit Card,Delivered,2025-07
+ORD0815,2025-12-24,Lucknow,Male,43,Books,History Book,1,700,5,665.0,UPI,Delivered,2025-12
+ORD0816,2025-12-08,Delhi,Male,49,Books,Data Science Guide,1,1020,10,918.0,Cash on Delivery,Returned,2025-12
+ORD0817,2025-07-29,Ahmedabad,Male,34,Electronics,Bluetooth Speaker,1,2520,10,2268.0,Credit Card,Returned,2025-07
+ORD0818,2025-07-15,Chennai,Female,30,Electronics,Wireless Headphones,1,12710,15,10803.5,Cash on Delivery,Delivered,2025-07
+ORD0819,2025-09-06,Ahmedabad,Male,23,Electronics,Wireless Headphones,2,3060,15,5202.0,Net Banking,Delivered,2025-09
+ORD0820,2025-03-29,Kolkata,Male,29,Beauty,Lipstick,1,2100,5,1995.0,Debit Card,Delivered,2025-03
+ORD0821,2025-12-13,Hyderabad,Male,46,Home & Kitchen,Bedsheet,1,4860,0,4860.0,Debit Card,Delivered,2025-12
+ORD0822,2025-12-23,Kolkata,Male,42,Electronics,Wireless Headphones,3,9910,15,25270.5,Debit Card,Cancelled,2025-12
+ORD0823,2025-05-08,Chennai,Male,30,Electronics,Wireless Headphones,1,7230,5,6868.5,UPI,Delivered,2025-05
+ORD0824,2025-04-23,Delhi,Male,28,Clothing,T-Shirt,1,1000,0,1000.0,UPI,Cancelled,2025-04
+ORD0825,2025-04-17,Jaipur,Female,45,Home & Kitchen,Mixer Grinder,1,4570,20,3656.0,UPI,Delivered,2025-04
+ORD0826,2025-01-07,Pune,Male,47,Electronics,Bluetooth Speaker,1,960,10,864.0,Credit Card,Delivered,2025-01
+ORD0827,2025-04-22,Pune,Female,49,Beauty,Perfume,2,1080,0,2160.0,UPI,Returned,2025-04
+ORD0828,2025-06-16,Pune,Male,39,Sports,Running Shoes,1,5770,20,4616.0,Credit Card,Delivered,2025-06
+ORD0829,2025-10-27,Ahmedabad,Female,50,Books,History Book,1,640,20,512.0,Credit Card,Returned,2025-10
+ORD0830,2025-06-08,Bengaluru,Female,33,Home & Kitchen,Coffee Maker,1,4510,0,4510.0,Net Banking,Delivered,2025-06
+ORD0831,2025-04-15,Kolkata,Male,46,Electronics,Bluetooth Speaker,1,4190,15,3561.5,Debit Card,Delivered,2025-04
+ORD0832,2025-11-28,Hyderabad,Male,32,Clothing,Hoodie,2,520,15,884.0,Debit Card,Delivered,2025-11
+ORD0833,2025-12-18,Bengaluru,Female,51,Clothing,Dress,1,3240,5,3078.0,Debit Card,Delivered,2025-12
+ORD0834,2025-01-27,Mumbai,Male,26,Home & Kitchen,Coffee Maker,1,3700,5,3515.0,UPI,Delivered,2025-01
+ORD0835,2025-06-09,Mumbai,Male,33,Home & Kitchen,Cookware Set,1,1010,15,858.5,Cash on Delivery,Delivered,2025-06
+ORD0836,2025-05-20,Ahmedabad,Male,41,Home & Kitchen,Mixer Grinder,1,3410,5,3239.5,Cash on Delivery,Cancelled,2025-05
+ORD0837,2025-03-21,Ahmedabad,Male,42,Electronics,Power Bank,1,11240,15,9554.0,Cash on Delivery,Delivered,2025-03
+ORD0838,2025-05-12,Pune,Female,37,Sports,Cricket Bat,2,1260,5,2394.0,Cash on Delivery,Delivered,2025-05
+ORD0839,2025-04-11,Mumbai,Male,18,Clothing,Dress,1,1430,15,1215.5,UPI,Returned,2025-04
+ORD0840,2025-07-11,Pune,Female,37,Beauty,Perfume,1,2330,15,1980.5,Net Banking,Delivered,2025-07
+ORD0841,2025-03-25,Bengaluru,Female,34,Clothing,T-Shirt,5,790,20,3160.0,Debit Card,Returned,2025-03
+ORD0842,2025-08-06,Bengaluru,Male,48,Beauty,Hair Dryer,2,1820,15,3094.0,UPI,Delivered,2025-08
+ORD0843,2025-05-14,Lucknow,Female,27,Beauty,Hair Dryer,1,1750,5,1662.5,Debit Card,Delivered,2025-05
+ORD0844,2025-11-26,Pune,Female,55,Home & Kitchen,Water Bottle,3,580,0,1740.0,UPI,Returned,2025-11
+ORD0845,2025-09-14,Jaipur,Female,55,Books,Business Book,1,750,10,675.0,Debit Card,Cancelled,2025-09
+ORD0846,2025-06-26,Mumbai,Female,31,Sports,Skipping Rope,3,1010,20,2424.0,Cash on Delivery,Delivered,2025-06
+ORD0847,2025-12-23,Pune,Female,36,Electronics,Smart Watch,3,730,0,2190.0,Cash on Delivery,Delivered,2025-12
+ORD0848,2025-09-15,Delhi,Female,54,Electronics,Smart Watch,2,4130,5,7847.0,Credit Card,Delivered,2025-09
+ORD0849,2025-07-29,Ahmedabad,Male,28,Electronics,Mouse,1,13830,10,12447.0,UPI,Delivered,2025-07
+ORD0850,2025-05-01,Ahmedabad,Female,24,Electronics,Wireless Headphones,1,6620,20,5296.0,UPI,Delivered,2025-05
+ORD0851,2025-02-19,Bengaluru,Male,42,Clothing,T-Shirt,2,2850,0,5700.0,Net Banking,Returned,2025-02
+ORD0852,2025-11-06,Pune,Female,41,Books,Fiction Novel,4,820,10,2952.0,Debit Card,Delivered,2025-11
+ORD0853,2025-07-02,Chennai,Male,18,Sports,Cricket Bat,2,2520,0,5040.0,Cash on Delivery,Cancelled,2025-07
+ORD0854,2025-05-24,Bengaluru,Female,46,Beauty,Moisturizer,1,530,20,424.0,Net Banking,Cancelled,2025-05
+ORD0855,2025-01-09,Chennai,Male,38,Home & Kitchen,Water Bottle,1,6910,10,6219.0,Cash on Delivery,Delivered,2025-01
+ORD0856,2025-08-08,Ahmedabad,Male,42,Home & Kitchen,Bedsheet,2,5660,10,10188.0,Debit Card,Returned,2025-08
+ORD0857,2025-01-17,Mumbai,Female,23,Electronics,Smart Watch,3,15860,20,38064.0,Debit Card,Returned,2025-01
+ORD0858,2025-09-04,Jaipur,Male,33,Books,Business Book,1,780,0,780.0,Credit Card,Delivered,2025-09
+ORD0859,2025-03-24,Chennai,Female,35,Sports,Skipping Rope,2,990,0,1980.0,Credit Card,Delivered,2025-03
+ORD0860,2025-11-21,Ahmedabad,Male,39,Beauty,Hair Dryer,1,560,20,448.0,Credit Card,Returned,2025-11
+ORD0861,2025-12-01,Jaipur,Female,32,Sports,Running Shoes,1,2320,15,1972.0,Credit Card,Delivered,2025-12
+ORD0862,2025-04-07,Delhi,Female,26,Electronics,Wireless Headphones,1,6590,20,5272.0,Debit Card,Cancelled,2025-04
+ORD0863,2025-07-18,Pune,Female,41,Home & Kitchen,Coffee Maker,1,4340,5,4123.0,Credit Card,Returned,2025-07
+ORD0864,2025-08-24,Chennai,Male,36,Beauty,Sunscreen,1,1140,20,912.0,Credit Card,Cancelled,2025-08
+ORD0865,2025-11-03,Chennai,Female,50,Beauty,Moisturizer,2,580,0,1160.0,UPI,Delivered,2025-11
+ORD0866,2025-09-11,Hyderabad,Female,21,Books,History Book,2,1020,5,1938.0,Debit Card,Delivered,2025-09
+ORD0867,2025-12-25,Kolkata,Male,49,Sports,Football,3,5630,5,16045.5,Cash on Delivery,Delivered,2025-12
+ORD0868,2025-10-08,Pune,Female,45,Books,History Book,3,410,0,1230.0,Cash on Delivery,Delivered,2025-10
+ORD0869,2025-12-23,Bengaluru,Female,24,Sports,Dumbbells,1,4470,10,4023.0,Credit Card,Delivered,2025-12
+ORD0870,2025-08-23,Mumbai,Male,46,Sports,Running Shoes,3,700,10,1890.0,Cash on Delivery,Delivered,2025-08
+ORD0871,2025-07-05,Lucknow,Male,27,Books,Data Science Guide,1,1170,0,1170.0,Cash on Delivery,Cancelled,2025-07
+ORD0872,2025-04-02,Kolkata,Male,50,Beauty,Moisturizer,4,470,15,1598.0,Debit Card,Returned,2025-04
+ORD0873,2025-03-02,Bengaluru,Female,49,Clothing,Jeans,2,1650,0,3300.0,Debit Card,Returned,2025-03
+ORD0874,2025-08-26,Pune,Female,46,Books,History Book,2,1210,0,2420.0,Debit Card,Delivered,2025-08
+ORD0875,2025-04-26,Kolkata,Female,35,Electronics,Wireless Headphones,1,11800,20,9440.0,UPI,Returned,2025-04
+ORD0876,2025-10-20,Mumbai,Male,38,Electronics,Power Bank,5,12860,10,57870.0,UPI,Returned,2025-10
+ORD0877,2025-09-29,Ahmedabad,Male,51,Electronics,Mouse,1,10320,20,8256.0,Net Banking,Returned,2025-09
+ORD0878,2025-04-03,Lucknow,Male,18,Beauty,Hair Dryer,1,1940,0,1940.0,Net Banking,Cancelled,2025-04
+ORD0879,2025-02-14,Jaipur,Female,20,Sports,Yoga Mat,1,3620,5,3439.0,UPI,Delivered,2025-02
+ORD0880,2025-05-08,Hyderabad,Male,51,Home & Kitchen,Mixer Grinder,4,1620,0,6480.0,Debit Card,Returned,2025-05
+ORD0881,2025-11-07,Jaipur,Male,24,Home & Kitchen,Storage Box,1,2530,10,2277.0,UPI,Delivered,2025-11
+ORD0882,2025-11-05,Jaipur,Male,55,Electronics,Smart Watch,1,15100,5,14345.0,Debit Card,Delivered,2025-11
+ORD0883,2025-07-15,Mumbai,Female,47,Electronics,Keyboard,1,10210,10,9189.0,UPI,Delivered,2025-07
+ORD0884,2025-11-21,Bengaluru,Female,54,Beauty,Hair Dryer,1,710,10,639.0,Net Banking,Returned,2025-11
+ORD0885,2025-01-14,Lucknow,Male,22,Electronics,Smart Watch,1,14330,15,12180.5,Debit Card,Delivered,2025-01
+ORD0886,2025-07-05,Chennai,Female,27,Home & Kitchen,Water Bottle,1,930,0,930.0,Credit Card,Delivered,2025-07
+ORD0887,2025-03-05,Mumbai,Female,55,Electronics,Power Bank,4,4540,0,18160.0,Cash on Delivery,Delivered,2025-03
+ORD0888,2025-11-08,Delhi,Male,28,Home & Kitchen,Water Bottle,2,2330,10,4194.0,Debit Card,Cancelled,2025-11
+ORD0889,2025-11-01,Pune,Female,55,Electronics,Mouse,2,14350,20,22960.0,Credit Card,Delivered,2025-11
+ORD0890,2025-07-13,Lucknow,Female,21,Electronics,Keyboard,2,12080,5,22952.0,Debit Card,Delivered,2025-07
+ORD0891,2025-08-28,Jaipur,Female,35,Beauty,Lipstick,2,660,10,1188.0,Cash on Delivery,Returned,2025-08
+ORD0892,2025-07-28,Chennai,Male,23,Books,Data Science Guide,1,1320,10,1188.0,UPI,Delivered,2025-07
+ORD0893,2025-10-11,Ahmedabad,Male,45,Books,Data Science Guide,2,310,10,558.0,Net Banking,Delivered,2025-10
+ORD0894,2025-12-24,Delhi,Female,18,Home & Kitchen,Storage Box,2,4900,20,7840.0,Net Banking,Delivered,2025-12
+ORD0895,2025-06-26,Bengaluru,Male,46,Books,History Book,1,750,20,600.0,Credit Card,Returned,2025-06
+ORD0896,2025-06-30,Kolkata,Female,49,Books,Data Science Guide,1,1290,20,1032.0,Cash on Delivery,Delivered,2025-06
+ORD0897,2025-03-02,Hyderabad,Female,48,Clothing,T-Shirt,1,2510,20,2008.0,Debit Card,Delivered,2025-03
+ORD0898,2025-11-26,Jaipur,Male,47,Electronics,Mouse,2,7510,10,13518.0,Net Banking,Cancelled,2025-11
+ORD0899,2025-02-24,Kolkata,Female,29,Electronics,Wireless Headphones,2,6380,10,11484.0,Cash on Delivery,Delivered,2025-02
+ORD0900,2025-03-20,Pune,Male,49,Electronics,Power Bank,1,2170,20,1736.0,UPI,Delivered,2025-03
+ORD0901,2025-07-06,Pune,Male,52,Sports,Cricket Bat,1,2610,10,2349.0,Debit Card,Delivered,2025-07
+ORD0902,2025-08-11,Kolkata,Female,30,Books,History Book,3,410,10,1107.0,UPI,Delivered,2025-08
+ORD0903,2025-03-24,Bengaluru,Female,35,Clothing,Jeans,1,2710,0,2710.0,UPI,Cancelled,2025-03
+ORD0904,2025-07-24,Jaipur,Female,26,Home & Kitchen,Bedsheet,2,5140,10,9252.0,UPI,Delivered,2025-07
+ORD0905,2025-01-27,Chennai,Female,18,Sports,Football,1,3200,5,3040.0,Cash on Delivery,Cancelled,2025-01
+ORD0906,2025-03-20,Jaipur,Male,33,Clothing,Sneakers,1,1730,20,1384.0,Debit Card,Delivered,2025-03
+ORD0907,2025-08-31,Delhi,Male,30,Sports,Skipping Rope,1,5000,5,4750.0,Net Banking,Delivered,2025-08
+ORD0908,2025-03-16,Pune,Male,30,Electronics,Smart Watch,1,5440,5,5168.0,UPI,Delivered,2025-03
+ORD0909,2025-04-24,Chennai,Female,48,Clothing,Dress,1,2360,5,2242.0,UPI,Returned,2025-04
+ORD0910,2025-06-29,Pune,Male,38,Clothing,T-Shirt,1,1230,10,1107.0,UPI,Delivered,2025-06
+ORD0911,2025-08-30,Hyderabad,Male,45,Electronics,Wireless Headphones,2,6260,10,11268.0,Credit Card,Delivered,2025-08
+ORD0912,2025-12-16,Jaipur,Male,39,Books,Fiction Novel,1,340,0,340.0,Debit Card,Delivered,2025-12
+ORD0913,2025-04-18,Lucknow,Female,23,Sports,Running Shoes,1,2480,10,2232.0,UPI,Delivered,2025-04
+ORD0914,2025-04-09,Ahmedabad,Male,22,Beauty,Sunscreen,1,1570,5,1491.5,Net Banking,Returned,2025-04
+ORD0915,2025-03-20,Kolkata,Male,30,Clothing,Hoodie,1,2760,20,2208.0,Cash on Delivery,Returned,2025-03
+ORD0916,2025-11-19,Delhi,Female,22,Beauty,Sunscreen,4,2260,15,7684.0,Cash on Delivery,Cancelled,2025-11
+ORD0917,2025-12-23,Mumbai,Female,20,Home & Kitchen,Storage Box,2,1590,10,2862.0,Net Banking,Delivered,2025-12
+ORD0918,2025-12-17,Jaipur,Male,28,Sports,Skipping Rope,1,4960,15,4216.0,Cash on Delivery,Returned,2025-12
+ORD0919,2025-01-02,Mumbai,Male,55,Clothing,Sneakers,1,1240,5,1178.0,UPI,Returned,2025-01
+ORD0920,2025-06-01,Hyderabad,Male,28,Home & Kitchen,Water Bottle,2,2180,5,4142.0,Credit Card,Delivered,2025-06
+ORD0921,2025-03-10,Hyderabad,Male,33,Home & Kitchen,Mixer Grinder,1,1460,10,1314.0,Credit Card,Returned,2025-03
+ORD0922,2025-06-16,Delhi,Female,26,Electronics,Mouse,1,11170,10,10053.0,Cash on Delivery,Returned,2025-06
+ORD0923,2025-04-23,Hyderabad,Male,34,Clothing,T-Shirt,2,430,10,774.0,UPI,Returned,2025-04
+ORD0924,2025-12-01,Hyderabad,Male,46,Beauty,Sunscreen,1,1930,15,1640.5,Credit Card,Delivered,2025-12
+ORD0925,2025-03-21,Ahmedabad,Male,45,Clothing,Dress,2,3060,15,5202.0,Debit Card,Delivered,2025-03
+ORD0926,2025-04-07,Lucknow,Female,29,Books,Python Basics,1,800,5,760.0,Debit Card,Delivered,2025-04
+ORD0927,2025-02-05,Mumbai,Male,45,Clothing,Jeans,3,2530,5,7210.5,Credit Card,Cancelled,2025-02
+ORD0928,2025-11-05,Delhi,Female,42,Books,Business Book,1,880,0,880.0,UPI,Delivered,2025-11
+ORD0929,2025-05-18,Mumbai,Male,18,Sports,Skipping Rope,4,1140,0,4560.0,UPI,Returned,2025-05
+ORD0930,2025-09-03,Lucknow,Female,28,Beauty,Perfume,3,440,5,1254.0,Debit Card,Delivered,2025-09
+ORD0931,2025-03-05,Kolkata,Male,24,Home & Kitchen,Cookware Set,1,5000,20,4000.0,Net Banking,Delivered,2025-03
+ORD0932,2025-04-27,Pune,Female,27,Electronics,Power Bank,1,16480,0,16480.0,Debit Card,Delivered,2025-04
+ORD0933,2025-09-09,Mumbai,Male,32,Electronics,Mouse,1,16000,0,16000.0,UPI,Delivered,2025-09
+ORD0934,2025-01-23,Lucknow,Male,29,Clothing,Dress,1,1520,0,1520.0,Cash on Delivery,Returned,2025-01
+ORD0935,2025-11-16,Hyderabad,Female,24,Clothing,Jeans,2,870,10,1566.0,Debit Card,Cancelled,2025-11
+ORD0936,2025-01-02,Mumbai,Male,38,Beauty,Perfume,3,1850,0,5550.0,Credit Card,Cancelled,2025-01
+ORD0937,2025-05-23,Mumbai,Male,38,Home & Kitchen,Bedsheet,3,1240,15,3162.0,Credit Card,Delivered,2025-05
+ORD0938,2025-11-05,Chennai,Male,33,Sports,Cricket Bat,1,2770,15,2354.5,Cash on Delivery,Cancelled,2025-11
+ORD0939,2025-07-16,Delhi,Female,51,Home & Kitchen,Storage Box,1,3960,5,3762.0,Net Banking,Delivered,2025-07
+ORD0940,2025-07-05,Jaipur,Female,26,Beauty,Moisturizer,1,710,0,710.0,UPI,Delivered,2025-07
+ORD0941,2025-05-31,Ahmedabad,Male,53,Books,Fiction Novel,3,1330,5,3790.5,Cash on Delivery,Delivered,2025-05
+ORD0942,2025-07-13,Kolkata,Female,41,Electronics,Smart Watch,1,3080,5,2926.0,UPI,Delivered,2025-07
+ORD0943,2025-01-16,Mumbai,Female,27,Beauty,Face Wash,1,1590,5,1510.5,UPI,Delivered,2025-01
+ORD0944,2025-08-29,Mumbai,Female,48,Electronics,Keyboard,3,7910,5,22543.5,Cash on Delivery,Delivered,2025-08
+ORD0945,2025-01-31,Kolkata,Male,50,Home & Kitchen,Water Bottle,2,2360,5,4484.0,Credit Card,Delivered,2025-01
+ORD0946,2025-12-31,Hyderabad,Female,32,Clothing,Sneakers,2,3120,20,4992.0,Cash on Delivery,Delivered,2025-12
+ORD0947,2025-04-19,Pune,Male,32,Clothing,T-Shirt,1,3430,5,3258.5,Cash on Delivery,Delivered,2025-04
+ORD0948,2025-09-02,Chennai,Female,42,Sports,Running Shoes,2,830,15,1411.0,Credit Card,Delivered,2025-09
+ORD0949,2025-02-09,Chennai,Female,19,Sports,Skipping Rope,1,1910,0,1910.0,Credit Card,Delivered,2025-02
+ORD0950,2025-04-07,Jaipur,Male,20,Electronics,Wireless Headphones,1,11030,10,9927.0,Credit Card,Delivered,2025-04
+ORD0951,2025-01-24,Kolkata,Female,23,Electronics,Keyboard,2,10450,15,17765.0,Debit Card,Delivered,2025-01
+ORD0952,2025-07-20,Chennai,Male,24,Books,Fiction Novel,4,850,10,3060.0,Debit Card,Cancelled,2025-07
+ORD0953,2025-01-13,Lucknow,Female,48,Books,Self Help Book,1,1250,5,1187.5,Net Banking,Delivered,2025-01
+ORD0954,2025-04-29,Bengaluru,Male,28,Clothing,Jeans,2,640,0,1280.0,Net Banking,Returned,2025-04
+ORD0955,2025-08-18,Mumbai,Female,36,Books,Self Help Book,2,1410,10,2538.0,Debit Card,Returned,2025-08
+ORD0956,2025-05-03,Bengaluru,Male,27,Sports,Dumbbells,1,4390,15,3731.5,Net Banking,Cancelled,2025-05
+ORD0957,2025-02-14,Ahmedabad,Male,47,Electronics,Wireless Headphones,1,15760,20,12608.0,Debit Card,Delivered,2025-02
+ORD0958,2025-02-15,Delhi,Male,47,Books,Data Science Guide,1,950,10,855.0,Debit Card,Cancelled,2025-02
+ORD0959,2025-10-19,Ahmedabad,Male,41,Books,Business Book,2,380,0,760.0,Debit Card,Cancelled,2025-10
+ORD0960,2025-09-20,Lucknow,Female,41,Clothing,Dress,3,800,10,2160.0,UPI,Cancelled,2025-09
+ORD0961,2025-11-14,Kolkata,Male,53,Home & Kitchen,Mixer Grinder,3,6940,0,20820.0,UPI,Delivered,2025-11
+ORD0962,2025-04-25,Pune,Female,23,Sports,Cricket Bat,1,3590,0,3590.0,Debit Card,Cancelled,2025-04
+ORD0963,2025-04-03,Delhi,Female,45,Home & Kitchen,Storage Box,3,3520,0,10560.0,Credit Card,Cancelled,2025-04
+ORD0964,2025-12-26,Ahmedabad,Male,35,Clothing,Jacket,1,2270,5,2156.5,Cash on Delivery,Delivered,2025-12
+ORD0965,2025-01-17,Lucknow,Female,21,Home & Kitchen,Bedsheet,1,1890,20,1512.0,Debit Card,Cancelled,2025-01
+ORD0966,2025-05-19,Hyderabad,Male,23,Books,Data Science Guide,1,1330,15,1130.5,Credit Card,Delivered,2025-05
+ORD0967,2025-09-26,Bengaluru,Female,29,Clothing,T-Shirt,1,2610,15,2218.5,UPI,Delivered,2025-09
+ORD0968,2025-04-12,Chennai,Female,48,Books,Business Book,1,1180,5,1121.0,Cash on Delivery,Returned,2025-04
+ORD0969,2025-07-19,Kolkata,Male,22,Beauty,Moisturizer,4,1230,20,3936.0,Net Banking,Returned,2025-07
+ORD0970,2025-01-08,Mumbai,Female,27,Electronics,Mouse,5,16940,10,76230.0,Cash on Delivery,Delivered,2025-01
+ORD0971,2025-08-19,Mumbai,Female,55,Electronics,Mouse,1,9710,0,9710.0,UPI,Delivered,2025-08
+ORD0972,2025-11-04,Pune,Male,40,Electronics,Smart Watch,1,10150,5,9642.5,Credit Card,Delivered,2025-11
+ORD0973,2025-01-09,Hyderabad,Female,50,Books,Self Help Book,4,680,10,2448.0,UPI,Cancelled,2025-01
+ORD0974,2025-08-07,Jaipur,Female,25,Beauty,Lipstick,1,1040,20,832.0,Credit Card,Cancelled,2025-08
+ORD0975,2025-07-15,Hyderabad,Female,36,Clothing,Jeans,2,900,15,1530.0,Net Banking,Delivered,2025-07
+ORD0976,2025-02-23,Ahmedabad,Male,46,Books,Python Basics,1,220,15,187.0,Net Banking,Returned,2025-02
+ORD0977,2025-08-21,Jaipur,Female,25,Sports,Skipping Rope,1,2760,5,2622.0,Credit Card,Cancelled,2025-08
+ORD0978,2025-11-27,Pune,Male,41,Books,Fiction Novel,4,1390,15,4726.0,Credit Card,Returned,2025-11
+ORD0979,2025-12-11,Bengaluru,Male,44,Clothing,Hoodie,1,3000,15,2550.0,UPI,Delivered,2025-12
+ORD0980,2025-06-12,Chennai,Male,54,Electronics,Bluetooth Speaker,3,9680,20,23232.0,Cash on Delivery,Delivered,2025-06
+ORD0981,2025-10-23,Pune,Male,42,Home & Kitchen,Bedsheet,1,4690,0,4690.0,Credit Card,Cancelled,2025-10
+ORD0982,2025-09-16,Delhi,Female,34,Books,Self Help Book,1,500,5,475.0,Net Banking,Delivered,2025-09
+ORD0983,2025-11-18,Lucknow,Male,19,Books,Data Science Guide,1,230,0,230.0,Net Banking,Returned,2025-11
+ORD0984,2025-08-21,Chennai,Male,33,Books,Python Basics,2,230,5,437.0,Credit Card,Delivered,2025-08
+ORD0985,2025-05-14,Kolkata,Female,23,Electronics,Smart Watch,2,14660,15,24922.0,Credit Card,Delivered,2025-05
+ORD0986,2025-03-04,Delhi,Male,36,Beauty,Sunscreen,3,500,20,1200.0,Debit Card,Delivered,2025-03
+ORD0987,2025-07-20,Delhi,Female,19,Electronics,Power Bank,3,16490,5,46996.5,Cash on Delivery,Delivered,2025-07
+ORD0988,2025-06-10,Ahmedabad,Male,29,Home & Kitchen,Water Bottle,1,4970,15,4224.5,Debit Card,Delivered,2025-06
+ORD0989,2025-03-02,Chennai,Female,48,Books,History Book,2,990,0,1980.0,Net Banking,Returned,2025-03
+ORD0990,2025-04-09,Lucknow,Male,52,Home & Kitchen,Cookware Set,1,2150,0,2150.0,UPI,Returned,2025-04
+ORD0991,2025-01-16,Chennai,Male,32,Home & Kitchen,Cookware Set,1,2870,5,2726.5,UPI,Delivered,2025-01
+ORD0992,2025-11-30,Hyderabad,Female,49,Clothing,Sneakers,1,690,20,552.0,Cash on Delivery,Returned,2025-11
+ORD0993,2025-07-21,Delhi,Female,28,Books,Data Science Guide,1,460,10,414.0,Credit Card,Cancelled,2025-07
+ORD0994,2025-11-15,Delhi,Female,45,Clothing,Sneakers,1,2720,10,2448.0,Credit Card,Returned,2025-11
+ORD0995,2025-09-19,Hyderabad,Female,36,Clothing,Hoodie,3,1790,0,5370.0,Net Banking,Returned,2025-09
+ORD0996,2025-04-06,Chennai,Male,22,Clothing,T-Shirt,1,2910,15,2473.5,Credit Card,Delivered,2025-04
+ORD0997,2025-06-18,Bengaluru,Female,54,Clothing,Jacket,1,1390,0,1390.0,Debit Card,Delivered,2025-06
+ORD0998,2025-02-22,Jaipur,Female,22,Home & Kitchen,Bedsheet,1,1880,5,1786.0,Net Banking,Cancelled,2025-02
+ORD0999,2025-01-26,Ahmedabad,Female,20,Beauty,Lipstick,1,970,5,921.5,Debit Card,Cancelled,2025-01
+ORD1000,2025-05-02,Lucknow,Male,36,Electronics,Power Bank,1,6350,15,5397.5,UPI,Returned,2025-05
